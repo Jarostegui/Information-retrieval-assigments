@@ -1,0 +1,142 @@
+ip,system,qid,qtext,rank_clicked,url
+15024419999,duckduckgo,2,mejores recetas thermomix,2,https://www.directoalpaladar.com/recetas-con-thermomix/15-mejores-recetas-thermomix-nuestros-expertos
+1.50244E+11,duckduckgo,7,esta colmenar viejo confinado,2,https://www.elmundo.es/madrid/2021/02/15/602a556d21efa0c02f8b4648.html
+15024419999,duckduckgo,2,mejores recetas thermomix,3,https://www.directoalpaladar.com/directo-al-paladar/las-mejores-recetas-de-thermomix-con-velocidad-cuchara
+1.50244E+11,duckduckgo,9,nonparametric regression in functional data analysis,2,https://arxiv.org/pdf/math/0603084.pdf
+1.50244E+11,duckduckgo,12,restricciones madrid primera semana de febrero,5,https://www.abc.es/espana/madrid/abci-claves-futuro-madrid-desde-este-semana-restricciones-barrios-o-toque-queda-202010211040_noticia.html
+1.50244E+11,duckduckgo,9,nonparametric regression in functional data analysis,7,https://socialsciences.mcmaster.ca/jfox/Books/Companion/appendices/Appendix-Nonparametric-Regression.pdf
+1.50244E+11,duckduckgo,36,Espionaje con delfines,1,https://actualidad.rt.com/actualidad/183582-hamas-captura-delfin-espia-israeli
+1.50244E+11,duckduckgo,12,restricciones madrid primera semana de febrero,11,https://elpais.com/espana/madrid/2021-01-20/buscador-por-calles-esta-es-la-incidencia-en-las-zonas-basicas-y-en-los-municipios-de-la-comunidad-de-madrid.html
+3710149120,duckduckgo,38,VacunaciÃƒÂ³n espaÃƒÂ±a,5,https://www.elmundo.es/ciencia-y-salud/salud/2021/01/29/60141474fc6c834e268b4666.html
+1.50244E+11,duckduckgo,12,restricciones madrid primera semana de febrero,13,https://www.msn.com/es-es/noticias/espana/madrid-ampl%C3%ADa-este-viernes-las-restricciones-en-barrios-para-afrontar-semanas-duras/ar-BB19p9H9
+1.50244E+11,duckduckgo,36,Espionaje con delfines,10,https://www.bbc.com/mundo/noticias-internacional-48098550
+1.95135E+11,duckduckgo,47,por que el te matcha sabe a pescado,3,https://www.teasenz.com/es/te-chino/te-huele-a-pescado.html
+95127170164,duckduckgo,49,Batalla de rocroi ,1,https://es.wikipedia.org/wiki/Batalla_de_Rocroi
+1.50244E+11,duckduckgo,51,coronavirus madrid incidencia 24 febrero,1,https://www.antena3.com/noticias/espana/nuevas-restricciones-confinamientos-horario-toque-queda-comunidad-hoy-miercoles-24-febrero_2021022360358095c092770001dd61a1.html
+1.95135E+11,duckduckgo,47,por que el te matcha sabe a pescado,4,https://elclubdelte.com/te-matcha-propiedades-beneficios-se-usa/
+15024419910,duckduckgo,54,como enriquecer uranio,1,https://es.wikihow.com/enriquecer-uranio
+15024419932,duckduckgo,48,applications of game theory,2,https://www.investopedia.com/terms/g/gametheory.asp
+15024419910,duckduckgo,54,como enriquecer uranio,2,https://es.wikipedia.org/wiki/Enriquecimiento_de_uranio
+1.50244E+11,duckduckgo,12,restricciones madrid primera semana de febrero,10,https://www.infobae.com/sociedad/2021/02/23/coronavirus-levantaran-las-restricciones-nocturnas-en-la-provincia-de-buenos-aires/
+1.95135E+11,duckduckgo,47,por que el te matcha sabe a pescado,6,https://www.eluniversal.com.mx/menu/que-es-el-matcha-y-cuales-son-sus-beneficios
+1.50244E+11,duckduckgo,51,coronavirus madrid incidencia 24 febrero,3,https://www.telemadrid.es/coronavirus-covid-19/Moncloa-Aravaca-distrito-capital-incidencia-coronavirus-0-2316968318--20210223074318.html
+15024419910,duckduckgo,54,como enriquecer uranio,3,https://answers.yahoo.com/question/index?qid=20110301164930AAJoYP2
+1.50244E+11,duckduckgo,12,restricciones madrid primera semana de febrero,22,https://www.esmadrid.com/que-hacer-semana-madrid
+1.95135E+11,duckduckgo,47,por que el te matcha sabe a pescado,9,https://www.milenio.com/estilo/gastronomia/que-es-el-matcha-y-por-que-es-tan-especial
+1.50244E+11,duckduckgo,71,daft punk ,4,https://www.nytimes.com/2021/02/22/arts/music/daft-punk-breakup.html
+15024419910,duckduckgo,73,batman begins,1,https://en.wikipedia.org/wiki/Batman_Begins
+1.50244E+11,duckduckgo,72,Mejor portÃƒÂ¡til por 600 euros,3,https://www.guiahardware.es/mejores-portatiles-por-menos-de-600-euros/
+15024419910,duckduckgo,86,clases en python,1,https://docs.python.org/es/3/tutorial/classes.html
+1.50244E+11,duckduckgo,83,estadisticas campazzo nba,2,https://www.youtube.com/watch?v=mzYphyImmf0
+15024419972,duckduckgo,92,convocatoria real madrid atalanta,1,https://www.realmadrid.com/noticias/2021/02/22/los-19-convocados-para-el-encuentro-frente-al-atalanta
+95127170164,duckduckgo,96,Algoritmo mÃƒÂ¡s ÃƒÂºtil del mundo,1,https://pijamasurf.com/2014/06/10-algoritmos-que-dominan-nuestro-mundo/
+1.50244E+11,duckduckgo,93,partidos champions league,2,https://es.uefa.com/uefachampionsleague/fixtures-results/format/
+15024419972,duckduckgo,92,convocatoria real madrid atalanta,2,https://www.fichajes.com/a1731124217698795204-real-madrid-la-convocatoria-ante-el-atalanta
+1.50244E+11,duckduckgo,83,estadisticas campazzo nba,8,https://as.com/baloncesto/2021/02/24/nba/1614152418_014857.html
+1.50244E+11,duckduckgo,72,Mejor portÃƒÂ¡til por 600 euros,13,https://hardzone.es/que-portatil-comprar-por-600e/
+1.95135E+11,duckduckgo,101,por que duckduckgo es mejor que google,1,https://www.xataka.com/basics/duckduckgo-que-principales-diferencias-google
+95127170164,duckduckgo,96,Algoritmo mÃƒÂ¡s ÃƒÂºtil del mundo,2,https://www.youtube.com/watch?v=8zgId4UNDDs
+15024419910,duckduckgo,103,yield en python,1,https://stackoverflow.com/questions/7883962/where-to-use-yield-in-python-best
+95127170164,duckduckgo,96,Algoritmo mÃƒÂ¡s ÃƒÂºtil del mundo,4,https://es.wikipedia.org/wiki/Algoritmo_de_ordenamiento
+1.95135E+11,duckduckgo,101,por que duckduckgo es mejor que google,3,https://es.quora.com/Cu%C3%A1l-buscador-es-mejor-DuckDuckGo-o-Google?share=1
+1.95135E+11,duckduckgo,101,por que duckduckgo es mejor que google,4,https://www.softzone.es/2018/01/01/duckduckgo-alternativa-google/
+1.50244E+11,duckduckgo,93,partidos champions league,1,https://es.uefa.com/uefachampionsleague/fixtures-results/
+15024419956,duckduckgo,120,aÃƒÂ±o estreno gladiator,1,https://es.wikipedia.org/wiki/Gladiator
+1.95135E+11,duckduckgo,101,por que duckduckgo es mejor que google,5,https://www.1000tipsinformaticos.com/2019/07/duckduckgo-vs-google-cual-es-el-mejor-motor-de-busqueda.html
+1.50244E+11,duckduckgo,122,se hace prueba de drogas a los agentes antidisturbios,6,https://www.youtube.com/watch?v=iBDHoOL2ACU
+1.50244E+11,duckduckgo,83,estadisticas campazzo nba,11,https://www.2kratings.com/facundo-campazzo
+1.50244E+11,duckduckgo,131,proximos campeonatos de ajedrez,2,https://www.ajedrezeureka.com/todos-los-campeones-y-campeonatos-del-mundo-de-ajedrez/
+1.50244E+11,duckduckgo,136,medidas covid castilla la mancha guadalajaradiario,3,https://www.guadalajaradiario.es/provincia/41428-castilla-la-mancha-presenta-los-peores-datos-de-covid-19-desde-la-nueva-normalidad.html
+3710149120,duckduckgo,130,Elden ring release date,1,https://www.pcgamer.com/elden-ring-everything-we-know/
+1.50244E+11,duckduckgo,131,proximos campeonatos de ajedrez,4,https://www.aboutespanol.com/campeones-mundiales-de-ajedrez-54774
+1.50244E+11,duckduckgo,136,medidas covid castilla la mancha guadalajaradiario,5,https://www.guadalajaradiario.com/coronavirus.html
+1.50244E+11,duckduckgo,155,mendeley,1,https://www.mendeley.com/
+95127170164,duckduckgo,156,Que significa ser madridista ,1,https://www.youtube.com/watch?v=poM27PRgG80
+15024419932,duckduckgo,162,applications of game theory,1,https://en.wikipedia.org/wiki/Game_theory
+15024419932,duckduckgo,162,applications of game theory,3,https://ocw.mit.edu/courses/economics/14-12-economic-applications-of-game-theory-fall-2012/lecture-notes/
+15024419972,duckduckgo,174,mascarilla ffp3 precio,1,https://www.amazon.es/mascarilla-ffp3/s?k=mascarilla+ffp3
+1.50244E+11,duckduckgo,179,ejercicios resueltos diodos circuitos electrÃƒÂ³nicos,1,https://tuelectronica.es/circuitos-con-diodos/
+15024419972,duckduckgo,174,mascarilla ffp3 precio,2,https://www.promofarma.com/salud/cuidado-respiratorio/prevencion/mascarilla
+95127170164,duckduckgo,182,AlineaciÃƒÂ³n Del Real madrid 6 copa de Europa ,1,https://www.realmadrid.com/landings/copas-de-europa-ganadas/sexta-copa-de-europa.html
+15024419972,duckduckgo,174,mascarilla ffp3 precio,7,https://www.comercturro.com/tiendaonline/mascarillas-autofiltrantes/_ffp3/
+1.50244E+11,duckduckgo,185,excedentes agricolas datos.gob.es,1,https://datos.gob.es/es/doc-tags/datos-agricolas
+1.50244E+11,duckduckgo,185,excedentes agricolas datos.gob.es,1,https://datos.gob.es/es/doc-tags/datos-agricolas
+1.50244E+11,duckduckgo,179,ejercicios resueltos diodos circuitos electrÃƒÂ³nicos,2,https://es.scribd.com/document/160360464/Ejercicios-Resueltos-Con-Diodos
+95127170164,duckduckgo,194,Cuando se termina el covid 19,2,https://www.who.int/es/emergencies/diseases/novel-coronavirus-2019/advice-for-public/q-a-coronaviruses
+1.50244E+11,duckduckgo,179,ejercicios resueltos diodos circuitos electrÃƒÂ³nicos,3,https://www.academia.edu/10021000/Ejercicios_de_circuitos_electricos_por_nodos_resueltos
+1.95135E+11,duckduckgo,191,por que la computacion cuantica no sirve para nada,15,https://www.dw.com/es/para-qu%C3%A9-sirve-en-realidad-una-computadora-cu%C3%A1ntica/a-50991735
+1.50244E+11,duckduckgo,196,proximos juegos survival,5,https://vandal.elespanol.com/lanzamientos/13/pc
+15024419956,duckduckgo,201,conciertos mas multitudinarios de la historia,1,https://noticiasyprotagonistas.com/actualidad/los-15-conciertos-mas-multitudinarios-de-la-historia/
+1.50244E+11,duckduckgo,196,proximos juegos survival,6,https://www.3djuegos.com/lanzamientos-juegos/pc/proximos-lanzamientos/1/
+176838989,duckduckgo,203,Where to start with yukio mishima,8,https://medium.com/@xi_chen/why-americans-should-read-yukio-mishima-439628ba0753
+1.50244E+11,duckduckgo,213,cuanto cuesta netflix,1,http://cuantocuesta.site/cuanto-cuesta-netflix/
+176838989,duckduckgo,203,Where to start with yukio mishima,10,https://www.reddit.com/r/YukioMishima/comments/ar53d4/yukio_mishimas_training_routine/
+1.50244E+11,duckduckgo,213,cuanto cuesta netflix,3,https://es.digitaltrends.com/entretenimiento/precios-planes-netflix/
+176838989,duckduckgo,203,Where to start with yukio mishima,13,https://www.wisegeek.com/who-is-yukio-mishima.htm
+15024419956,duckduckgo,201,conciertos mas multitudinarios de la historia,2,https://musicaenvia.wordpress.com/los-7-conciertos-mas-multitudinarios-de-la-historia/
+176838989,duckduckgo,203,Where to start with yukio mishima,1,https://en.wikipedia.org/wiki/Yukio_Mishima
+1.95135E+11,duckduckgo,230,andorra es un paraiso fiscal,1,https://elordenmundial.com/es-andorra-un-paraiso-fiscal/
+1.50244E+11,duckduckgo,229,keyforge,2,https://www.fantasyflightgames.com/en/products/keyforge/
+1.95135E+11,duckduckgo,230,andorra es un paraiso fiscal,3,https://www.lasexta.com/programas/sexta-columna/noticias/es-andorra-un-paraiso-fiscal_20210205601d9a55c7101f00014f5490.html
+15024419910,duckduckgo,245,how much money does bezos have,1,https://www.quora.com/How-much-money-does-Jeff-Bezos-have-in-cash-not-in-assets-or-stocks?share=1
+1.95135E+11,duckduckgo,230,andorra es un paraiso fiscal,7,https://www.paraisos-fiscales.info/blog/andorra/andorra-gran-paraiso-fiscal-para-espana
+15024419910,duckduckgo,245,how much money does bezos have,5,https://en.wikipedia.org/wiki/Jeff_Bezos
+1.50244E+11,duckduckgo,248,algorithms to know,1,https://www.quora.com/What-are-the-10-algorithms-one-must-know-in-order-to-solve-most-algorithm-problems?share=1
+15024419932,duckduckgo,252,problemas del siglo,1,https://hablandoenvidrio.com/7-grandes-problemas-medioambientales/
+1.50244E+11,duckduckgo,255,mejor mÃƒÂ³vil calidad precio 2021,1,https://7mejor.top/movil-calidad-precio/
+1.50244E+11,duckduckgo,256,fernando alonso cuello,1,https://www.menshealth.com/es/fitness/a35594102/fernando-alonso-entrenamiento-cuello-accidente-bicicleta/
+1.50244E+11,duckduckgo,268,Cantidad de vacunas espaÃƒÂ±a,1,https://www.mundodeportivo.com/actualidad/20201224/491255496989/vacuna-pfizer-campana-vacunacion-cataluna-espana-coronavirus-covid-19-act-pau.html
+1.50244E+11,duckduckgo,255,mejor mÃƒÂ³vil calidad precio 2021,2,https://andro4all.com/compras/moviles/mejores-moviles-calidad-precio
+1.50244E+11,duckduckgo,271,scikit fda,1,https://fda.readthedocs.io/
+15024419956,duckduckgo,273,calendario laboral madrid 2021,1,https://www.calendarioslaborales.com/calendario-laboral-madrid-2021.htm
+1.50244E+11,duckduckgo,268,Cantidad de vacunas espaÃƒÂ±a,2,https://www.eluniversal.com.mx/mundo/en-espana-se-han-aplicado-tres-millones-de-vacunas-contra-covid-19
+15024419910,duckduckgo,279,20 minutos,1,https://20minutos.es/
+1.50244E+11,duckduckgo,280,tabla de tipos pokemon,1,https://hablamosdegamers.com/analisis/pokemon-go-tipos-debilidades/
+1.50244E+11,duckduckgo,271,scikit fda,2,https://github.com/GAA-UAM/scikit-fda
+95127170164,duckduckgo,270,CalÃƒÂ§ot subatomico ,4,https://es.wikipedia.org/wiki/Cal%C3%A7ot
+1.50244E+11,duckduckgo,289,UFC 259 predicciÃƒÂ³n,2,https://www.tapology.com/fightcenter/events/74079-ufc-fight-night
+1.50244E+11,duckduckgo,280,tabla de tipos pokemon,3,https://as.com/meristation/2019/12/01/guia_pagina/1575197597_259376.html
+15024419910,duckduckgo,292,cuanto cobra un profesor de universidad en espaÃƒÂ±a,1,https://www.cuanto-gana.com/cuanto-cobra-un-profesor-en-espana/
+1.50244E+11,duckduckgo,297,pablo castells uam,1,http://ir.ii.uam.es/castells/
+15024419910,duckduckgo,292,cuanto cobra un profesor de universidad en espaÃƒÂ±a,2,https://answers.yahoo.com/question/index?qid=20100521125424AAekxMe
+1.50244E+11,duckduckgo,301,2020 olimpic games logo,1,https://logos.fandom.com/wiki/Tokyo_2020
+15024419997,duckduckgo,302,Berserk hiatus,1,https://www.reddit.com/r/Berserk/comments/7wrc0p/berserk_manga_hiatus_chart_im_new_to_reddit_so/
+1.50244E+11,duckduckgo,301,2020 olimpic games logo,3,https://tokyo2020.org/en/games/emblem/
+15024419997,duckduckgo,302,Berserk hiatus,3,https://www.youtube.com/watch?v=bo9V90--fSU
+15024419997,duckduckgo,302,Berserk hiatus,5,https://en.wikipedia.org/wiki/List_of_Berserk_chapters
+1.50244E+11,duckduckgo,301,2020 olimpic games logo,5,https://www.snopes.com/fact-check/2020-summer-olympics-logo/
+1.50244E+11,duckduckgo,268,Cantidad de vacunas espaÃƒÂ±a,3,https://www.marca.com/tiramillas/actualidad/2021/02/23/60347cf2268e3e524c8b45a4.html
+1.50244E+11,duckduckgo,306,red bull rb19,9,https://www.racedepartment.com/threads/f1-the-new-red-bull-racing-rb16b-breaks-cover.198821/
+15024419997,duckduckgo,302,Berserk hiatus,8,https://en.wikipedia.org/wiki/Berserk_(manga)
+1.50244E+11,duckduckgo,336,machine learning applied to money laundring,1,https://medium.com/datadriveninvestor/artificial-intelligence-machine-learning-for-anti-money-laundering-ca896d9fe419
+1.50244E+11,duckduckgo,337,calcots submarino,2,https://en.wikipedia.org/wiki/Cal%C3%A7ot
+15024419910,duckduckgo,364,google covid investigation,1,https://www.google.com/intl/en_uk/covid19/
+95127170164,duckduckgo,370,QuiÃƒÂ©n era el elefante blanco en la operaciÃƒÂ³n galaxia ,3,https://www.youtube.com/watch?v=pJKLCZMPNNo
+95127170164,duckduckgo,370,QuiÃƒÂ©n era el elefante blanco en la operaciÃƒÂ³n galaxia ,8,https://www.msn.com/es-es/noticias/espana/milans-del-bosch-%E2%80%9Carmada-me-dijo-no-puedo-parar-a-tejero-esto-se-hace%E2%80%9D/ar-BB1dV3WK?li=BBpmbhJ
+15024419910,duckduckgo,364,google covid investigation,3,https://github.com/GoogleCloudPlatform/covid-19-open-data
+15024419972,duckduckgo,376,fernando alonso accidente ,2,https://elpais.com/elpais/2018/08/26/album/1535292607_150037.html
+176838989,duckduckgo,378,Perseverance landing,2,https://www.youtube.com/watch?v=QBFiiEVBWvE
+15024419972,duckduckgo,376,fernando alonso accidente ,3,https://www.menshealth.com/es/fitness/a35594102/fernando-alonso-entrenamiento-cuello-accidente-bicicleta/
+176838989,duckduckgo,378,Perseverance landing,3,https://www.nytimes.com/2021/02/18/science/nasa-peseverance-mars-landing.html
+176838989,duckduckgo,378,Perseverance landing,5,https://www.yahoo.com/news/nasas-perseverance-sends-pictures-landing-212245569.html
+176838989,duckduckgo,378,Perseverance landing,5,https://www.yahoo.com/news/nasas-perseverance-sends-pictures-landing-212245569.html
+176838989,duckduckgo,378,Perseverance landing,5,https://www.yahoo.com/news/nasas-perseverance-sends-pictures-landing-212245569.html
+1.95135E+11,duckduckgo,408,ensemble learning methods machine learning,2,https://towardsdatascience.com/ensemble-methods-in-machine-learning-what-are-they-and-why-use-them-68ec3f9fef5f
+1.50244E+11,duckduckgo,414,goku super saiyan 5,1,https://www.youtube.com/watch?v=QptGSoGpI0E
+1.50244E+11,duckduckgo,414,goku super saiyan 5,2,https://dragonballaffanon.fandom.com/wiki/Super_Saiyan_5
+1.95135E+11,duckduckgo,408,ensemble learning methods machine learning,4,http://web.engr.oregonstate.edu/~tgd/publications/mcs-ensembles.pdf
+15024419910,duckduckgo,419,mascarillas amazon,1,https://www.amazon.es/mascarillas-respiradores/b?ie=UTF8&node=3051796031
+1.50244E+11,duckduckgo,428,murciÃƒÂ©lago de herradura,1,https://animalesexotico.org/murcielagos/herradura-nariz-cerdo/
+1.95135E+11,duckduckgo,408,ensemble learning methods machine learning,9,https://www.researchgate.net/publication/298606994_Ensemble_methods_in_machine_learning
+1.50244E+11,duckduckgo,385,pc gamer,1,https://www.pcgamer.com/
+1.95135E+11,duckduckgo,408,ensemble learning methods machine learning,10,https://link.springer.com/chapter/10.1007/3-540-45014-9_1
+1.95135E+11,duckduckgo,408,ensemble learning methods machine learning,16,https://www.datacamp.com/community/tutorials/ensemble-learning-python
+15024419954,duckduckgo,437,Cuando es el Madrid Atalanta,3,https://elbocon.pe/internacional/ver-real-madrid-vs-atalanta-en-vivo-como-y-donde-ver-la-champions-league-via-espn-en-vivo-horarios-real-madrid-atalanta-en-directo-movistar-liga-de-campeones-mitele-plus-online-tudn-en-vivo-univision-online-pronostico-y-prediccion-ar-cl-es-usa-estados-unidos-mx-co-noticia/
+1.50244E+11,duckduckgo,438,x-vectors,3,https://github.com/topics/x-vector
+1.50244E+11,duckduckgo,438,x-vectors,6,https://www.x-vector.com/
+1.50244E+11,duckduckgo,438,x-vectors,10,https://www.researchgate.net/publication/327812023_X-Vectors_Robust_DNN_Embeddings_for_Speaker_Recognition
+15024419954,duckduckgo,437,Cuando es el Madrid Atalanta,16,https://news.google.com/stories/CAAqogEICiKbAUNCSVNiam9KYzNSdmNua3RNell3U21FS0VRaUw2dGJqbDRBTUVZNE9lQ3dDMGNmcUVreEJkR0ZzWVc1MFlTQjJjeTRnVW1WaGJDQk5ZV1J5YVdRZ3dyY2dUMk4wWVhadmN5QmtaU0JtYVc1aGJDREN0eUJNYVdkaElHUmxJRU5oYlhCbGIyNWxjeUJrWlNCc1lTQlZSVVpCS0FBUAE?hl=es-419&gl=VE&ceid=VE%3Aes-419
+1.95135E+11,duckduckgo,408,ensemble learning methods machine learning,17,https://github.com/topics/ensemble-machine-learning
+1.50244E+11,duckduckgo,451,NBA resultados ,1,https://www.espn.com.ve/basquetbol/nba/resultados
+176838989,duckduckgo,457,Por que la uam es mejor que la upm informatica,1,https://www.uam.es/
+1.50244E+11,duckduckgo,459,event detection in twitter,3,http://rali.iro.umontreal.ca/rali/sites/default/files/publis/Atefeh_et_al-2013-Computational_Intelligence-2.pdf

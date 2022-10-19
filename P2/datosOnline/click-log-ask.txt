@@ -1,0 +1,125 @@
+ip,system,qid,qtext,rank_clicked,url
+1.50244E+11,ask,17,Ingredientes tartaletas mercadona,1,https://es.openfoodfacts.org/producto/8481772701166/tartaletas-mini-confiletas
+1.50244E+11,ask,22,einstein field equations,1,https://es.wikipedia.org/wiki/Ecuaciones_del_campo_de_Einstein
+1.50244E+11,ask,22,einstein field equations,2,https://en.wikipedia.org/wiki/Einstein_field_equations
+1.50244E+11,ask,22,einstein field equations,3,https://www.youtube.com/watch?v=foRPKAKZWx8
+1.50244E+11,ask,22,einstein field equations,4,https://warwick.ac.uk/fac/sci/physics/intranet/pendulum/generalrelativity/
+1.50244E+11,ask,22,einstein field equations,5,http://www.scholarpedia.org/article/Exact_solutions_of_Einstein%27s_equations
+15024419972,ask,41,mejor jugador de petanca del mundo,1,https://www.elespanol.com/deportes/otros-deportes/20190511/manuel-romero-no-petanca-espana-no-dinero/397710742_0.html
+1.50244E+11,ask,22,einstein field equations,6,https://www.sciencedirect.com/topics/physics-and-astronomy/einstein-field-equations
+15024419956,ask,50,weather today,1,https://www.reference.com/science/seven-weather-elements-7471c4c1cafc02b3?ad=dirN&qo=serpIndex&o=740005
+1.50244E+11,ask,22,einstein field equations,7,https://www.diva-portal.org/smash/get/diva2:566736/FULLTEXT01.pdf
+15024419972,ask,41,mejor jugador de petanca del mundo,2,https://www.elperiodicodearagon.com/noticias/la-contra/jesus-escacho-en-francia-hay-jugadores-ganan-100-000-euros-ano_1413708.html
+1.50244E+11,ask,22,einstein field equations,8,https://arxiv.org/pdf/1608.05752
+1.50244E+11,ask,58,mejores procesadores 2020,1,https://www.geektopia.es/es/technology/2013/05/08/noticias/los-mejores-procesadores-para-jugar-por-rango-de-precio-mayo-2013.html
+15024419972,ask,41,mejor jugador de petanca del mundo,5,https://www.elperiodico.com/es/barcelona/20160714/petanca-jovenes-messi-5267716
+1.50244E+11,ask,22,einstein field equations,9,https://mathworld.wolfram.com/EinsteinFieldEquations.html
+15024419972,ask,41,mejor jugador de petanca del mundo,6,https://prezi.com/sgdkipmsrny3/los-mejores-jugadores-de-petanca-a-nivel-mundial/
+1.50244E+11,ask,58,mejores procesadores 2020,2,https://www.profesionalreview.com/hardware/mejores-procesadores/
+1.50244E+11,ask,89,real madrid atalanta,1,https://www.marca.com/futbol/champions-league/2021/02/24/60356675e2704ee7198b45fa.html
+15024419956,ask,94,aws lambda vpc s3,1,https://aws.amazon.com/blogs/aws/new-access-resources-in-a-vpc-from-your-lambda-functions/
+1.50244E+11,ask,22,einstein field equations,10,https://physicstoday.scitation.org/doi/10.1063/PT.3.2979
+1.50244E+11,ask,89,real madrid atalanta,2,https://www.marca.com/futbol/liga-italiana/2021/02/23/60355fc946163f2c8f8b45cc.html
+1.50244E+11,ask,58,mejores procesadores 2020,6,https://es.digitaltrends.com/computadoras/mejores-procesadores/
+15024419956,ask,107,proximo partido atletico de madrid,1,https://www.atleticodemadrid.com/calendario-completo-primer-equipo/
+1.50244E+11,ask,105,Reigns,2,https://reignsgame.com/
+1.50244E+11,ask,114,geometric median,1,https://es.wikipedia.org/wiki/Mediana_geom%C3%A9trica
+1.50244E+11,ask,115,mejor club futbol frances,2,https://www.sobrefutbol.com/torneos/liga_francesa_equipo.htm
+1.50244E+11,ask,124,ricci tensor,1,https://es.wikipedia.org/wiki/Tensor_de_Ricci
+1.50244E+11,ask,114,geometric median,2,https://en.wikipedia.org/wiki/Geometric_median
+1.50244E+11,ask,125,receta quiche salmon ahumado,1,https://www.aldi.es/recetas/platos-mundo/quiche-salmon-ahumado-y-queso-cabra.html
+1.50244E+11,ask,115,mejor club futbol frances,7,https://elpais.com/deportes/2021-01-30/la-ligue-1-suspende-el-marsella-rennes-tras-un-ataque-de-los-hinchas-a-los-jugadores-del-olympique.html
+1.50244E+11,ask,124,ricci tensor,2,https://en.wikipedia.org/wiki/Ricci_curvature
+1.50244E+11,ask,115,mejor club futbol frances,5,http://futboldesdefrancia.com/cuales-son-los-equipos-de-ligue1-mas-caros-de-seguir/
+1.95135E+11,ask,138,diferencias entre bitcoin y ethereum,2,https://www.finder.com/hk/bitcoin-vs-ethereum
+1.50244E+11,ask,125,receta quiche salmon ahumado,2,https://saborgourmet.com/quiche-de-salmon-ahumado/
+1.95135E+11,ask,138,diferencias entre bitcoin y ethereum,3,https://hackernoon.com/differences-between-bitcoin-ethereum-e8744405db9b
+15024419997,ask,147,griffith did nothing wrong,1,https://www.youtube.com/watch?v=A4JVtQwWHBk
+1.50244E+11,ask,173,dallas vs boston nba,1,https://us.marca.com/claro/baloncesto/nba/2021/02/24/6035d444ca4741c1238b4625.html
+1.50244E+11,ask,124,ricci tensor,3,http://teoria-de-la-relatividad.blogspot.com/2009/03/25b-el-tensor-de-ricci.html
+1.50244E+11,ask,173,dallas vs boston nba,4,https://www.sofascore.com/es/boston-celtics-dallas-mavericks/ltbsxtb
+15024419997,ask,147,griffith did nothing wrong,4,https://www.reddit.com/r/OutOfTheLoop/comments/7nacf2/where_did_the_idea_griffith_did_nothing_wrong/
+1.50244E+11,ask,175,como murio durruti,5,https://www.lavanguardia.com/hemeroteca/20161122/411878974958/buena-ventura-durruti-anarquismo-cnt-guerra-civil-espanola.html
+1.50244E+11,ask,125,receta quiche salmon ahumado,4,https://www.ahumadosdominguez.es/es/recetas-ahumados/quiche-de-salmon-ahumado/
+15024419997,ask,147,griffith did nothing wrong,9,https://aminoapps.com/c/anime/page/blog/griffith-did-nothing-wrong/mJtk_u0XzDl5kYnX2vJzLkVPRpYxEk
+15024419997,ask,147,griffith did nothing wrong,10,https://www.alertageekchile.cl/podcast/el-rincon-del-anime-3griffith-did-nothing-wrong/
+1.50244E+11,ask,195,alfors book complex analysis,2,https://www.amazon.es/Complex-Analysis-3rd-Lars-Ahlfors/dp/1259064824
+1.50244E+11,ask,125,receta quiche salmon ahumado,6,https://www.elespanol.com/cocinillas/recetas/panes-y-otras-masas/20111027/quiche-salmon-ahumado-cebolla-caramelizada-rulo-cabra/1000065043500_30.html
+1.50244E+11,ask,195,alfors book complex analysis,1,http://people.math.gatech.edu/~mccuan/courses/6321/lars-ahlfors-complex-analysis-third-edition-mcgraw-hill-science_engineering_math-1979.pdf
+15024419997,ask,147,griffith did nothing wrong,1,https://www.youtube.com/watch?v=A4JVtQwWHBk
+1.50244E+11,ask,175,como murio durruti,3,https://www.abc.es/historia/abci-bala-perdida-mato-durruti-1936-mayor-misterio-guerra-civil-85-anos-despues-202004200113_noticia.html
+1.50244E+11,ask,124,ricci tensor,4,https://mathworld.wolfram.com/RicciCurvatureTensor.html
+1.50244E+11,ask,209,shaders minecraft,1,https://www.questionsanswered.net/tech/where-to-find-minecraft-skins-online?ad=dirN&qo=serpIndex&o=740012
+1.50244E+11,ask,210,calÃƒÂ§ot subatÃƒÂ³mico,2,https://sites.google.com/view/elcalcotsubatomico/inicio
+1.50244E+11,ask,212,lore titanes eldia shingeki no kyojin,1,https://shingeki-no-kyojin.fandom.com/es/wiki/Eldia
+1.50244E+11,ask,124,ricci tensor,5,https://www.youtube.com/watch?v=v0VjZXv31uA
+1.50244E+11,ask,124,ricci tensor,6,https://www.youtube.com/watch?v=cA7RXRsLJSw
+1.50244E+11,ask,210,calÃƒÂ§ot subatÃƒÂ³mico,1,https://tucalcotsubatomico.wordpress.com/
+1.50244E+11,ask,124,ricci tensor,7,https://www.sciencedirect.com/topics/mathematics/ricci-tensor
+1.50244E+11,ask,209,shaders minecraft,2,https://www.lifewire.com/how-to-install-minecraft-shaders-4799056
+1.50244E+11,ask,217,teorema aplicaciÃƒÂ³n abierta,1,https://www.ugr.es/~rpaya/documentos/Funcional/2018-19/Abierta.pdf
+1.50244E+11,ask,217,teorema aplicaciÃƒÂ³n abierta,3,https://es.wikipedia.org/wiki/Teorema_de_la_funci%C3%B3n_abierta
+15024419997,ask,222,griffith did nothing wrong,10,https://www.alertageekchile.cl/podcast/el-rincon-del-anime-3griffith-did-nothing-wrong/
+1.50244E+11,ask,124,ricci tensor,8,http://astro.dur.ac.uk/~done/gr/l11.pdf
+15024419997,ask,222,griffith did nothing wrong,9,https://aminoapps.com/c/anime/page/blog/griffith-did-nothing-wrong/mJtk_u0XzDl5kYnX2vJzLkVPRpYxEk
+1.50244E+11,ask,209,shaders minecraft,7,https://www.extremetech.com/extreme/72364-using-vertex-shaders
+1.50244E+11,ask,236,principio del modulo maximo,1,https://es.wikipedia.org/wiki/Principio_del_m%C3%B3dulo_m%C3%A1ximo
+15024419997,ask,222,griffith did nothing wrong,4,https://www.reddit.com/r/OutOfTheLoop/comments/7nacf2/where_did_the_idea_griffith_did_nothing_wrong/
+1.50244E+11,ask,124,ricci tensor,9,https://www.researchgate.net/post/what_is_physical_significance_of_ricci_tensor_Does_it_give_the_full_curvature
+15024419972,ask,241,John Grisham last book,3,https://en.wikipedia.org/wiki/John_Grisham
+1.50244E+11,ask,124,ricci tensor,10,https://www.maplesoft.com/support/help/Maple/view.aspx?path=Physics%5BRicci%5D
+15024419956,ask,242,zonas confinadas madrid,1,https://www.comunidad.madrid/covid-19
+15024419997,ask,246,griffith did nothing wrong,6,https://www.amazon.es/Saitama-Griffith-Nothing-Wrong-Berserk/dp/B083GKLNTV
+15024419972,ask,241,John Grisham last book,5,https://www.howtoread.me/john-grisham-books-in-order/
+15024419999,ask,250,tame pigs valheim,1,https://www.questionsanswered.net/article/how-start-pig-farm?ad=dirN&qo=serpIndex&o=740012
+1.50244E+11,ask,236,principio del modulo maximo,5,http://fernandorevilla.es/blog/2015/09/06/principio-del-modulo-maximo/
+1.50244E+11,ask,124,ricci tensor,10,https://www.maplesoft.com/support/help/Maple/view.aspx?path=Physics%5BRicci%5D
+15024419972,ask,241,John Grisham last book,6,https://www.deadgoodbooks.co.uk/john-grisham-books-in-order/
+15024419999,ask,262,tame valheim,1,https://www.ign.com/wikis/valheim/How_to_Tame_All_Animals
+1.50244E+11,ask,263,como hacer un helado sin lacteos,1,https://libredelacteos.com/recetas-sin-lacteos/helados-caseros-sin-lacteos/
+15024419910,ask,269,jose garcÃƒÂ­a cuerva,1,http://matematicas.uam.es/~jose.garcia-cuerva/
+1.50244E+11,ask,277,las noticias,1,https://elpais.com/ultimas-noticias/
+15024419997,ask,287,Berserker,1,https://es.wikipedia.org/wiki/Berserker
+15024419997,ask,287,Berserker,6,https://www.muyhistoria.es/curiosidades/preguntas-respuestas/quienes-fueron-los-guerreros-berserker-511453308623
+1.50244E+11,ask,277,las noticias,2,https://www.elmundo.es/ultimas-noticias.html
+15024419932,ask,299,es la leche con cereales una sopa,1,https://qastack.mx/cooking/76084/is-cereal-a-soup
+1.50244E+11,ask,277,las noticias,4,https://www.rtve.es/noticias/s/espana/
+1.50244E+11,ask,315,restricciones madrid covid,1,https://www.comunidad.madrid/covid-19
+1.50244E+11,ask,315,restricciones madrid covid,2,https://www.comunidad.madrid/servicios/salud/coronavirus
+1.50244E+11,ask,317,ferraty non parametrics,1,https://www.springer.com/gp/book/9780387303697
+1.50244E+11,ask,317,ferraty non parametrics,2,https://link.springer.com/book/10.1007/0-387-36620-2
+15024419956,ask,332,buscadores mÃƒÂ¡s usados,1,https://blog.hubspot.es/marketing/buscadores-mas-utilizados
+1.50244E+11,ask,345,duracion estado de alarma espaÃƒÂ±a,1,https://www.lamoncloa.gob.es/covid-19/Paginas/estado-de-alarma.aspx
+1.50244E+11,ask,352,f1 cambios reglamento 2022,4,https://es.motorsport.com/f1/news/cambios-tecnicos-coches-formula1-2021/4590071/
+1.50244E+11,ask,345,duracion estado de alarma espaÃƒÂ±a,2,https://hayderecho.expansion.com/2020/06/21/el-fin-del-estado-de-alarma-y-ahora-que-pasa-desde-un-punto-de-vista-juridico/
+1.50244E+11,ask,361,cronologia nombre ibai,1,https://www.conmishijos.com/nombres/ibai/
+1.50244E+11,ask,315,restricciones madrid covid,4,https://www.lavanguardia.com/vida/20210222/6257344/restricciones-coronavirus-comunidad-madrid-ultimas-noticias-22-febrero-hoy-en-directo.html
+1.50244E+11,ask,368,twitter prediction social events,3,https://www.aaai.org/ocs/index.php/ICWSM/ICWSM15/paper/download/10670/10500
+1.50244E+11,ask,368,twitter prediction social events,4,https://ieeexplore.ieee.org/document/7404680
+1.50244E+11,ask,373,calÃƒâ€¡ot subatomico,1,https://tucalcotsubatomico.wordpress.com/
+1.50244E+11,ask,345,duracion estado de alarma espaÃƒÂ±a,3,https://www.uso.es/estado-de-alarma-nuevo-decreto-duracion-medidas/
+1.50244E+11,ask,373,calÃƒâ€¡ot subatomico,2,https://sites.google.com/view/elcalcotsubatomico/inicio
+1.50244E+11,ask,382,ruy lopez opening,4,https://www.ichess.net/blog/ruy-lopez-spanish-opening/
+1.50244E+11,ask,373,calÃƒâ€¡ot subatomico,3,https://calcotsubatomico.wordpress.com/about/
+1.50244E+11,ask,373,calÃƒâ€¡ot subatomico,4,http://www.calcotsubatomico.com.es/calsots-subatomicos/
+1.50244E+11,ask,379,CalÃƒÂ§ot subatÃƒÂ³mico,1,https://tucalcotsubatomico.wordpress.com/
+1.50244E+11,ask,397,kernel methods in machine learning state of art,1,https://arxiv.org/pdf/math/0701907
+1.50244E+11,ask,398,twitter prediction social events 2020,2,https://www.sciencedirect.com/science/article/pii/S0968090X20308354
+1.50244E+11,ask,315,restricciones madrid covid,5,https://www.eldiario.es/madrid/comunidad-madrid-levanta-restricciones-31-zonas-sanitarias-siete-localidades_1_7233809.html
+1.50244E+11,ask,352,f1 cambios reglamento 2022,6,https://as.com/motor/2020/05/29/formula_1/1590740382_367031.html
+1.50244E+11,ask,315,restricciones madrid covid,6,https://www.elconfidencial.com/espana/coronavirus/2021-02-19/guia-restricciones-madrid-zonas-basicas-toque-queda_2909035/
+1.50244E+11,ask,407,ageusia covid,1,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7386364/
+1.50244E+11,ask,411,gafas de oscuridad,1,https://www.amazon.es/gafas-vision-nocturna/s?k=gafas+vision+nocturna&af=%7B%22quartzVehicle%22%3A%2220-283%22%2C%22replacementKeywords%22%3A%22gafas+nocturna%22%7D
+1.50244E+11,ask,411,gafas de oscuridad,1,https://www.amazon.es/gafas-vision-nocturna/s?k=gafas+vision+nocturna&af=%7B%22quartzVehicle%22%3A%2220-283%22%2C%22replacementKeywords%22%3A%22gafas+nocturna%22%7D
+1.50244E+11,ask,411,gafas de oscuridad,1,https://www.amazon.es/gafas-vision-nocturna/s?k=gafas+vision+nocturna&af=%7B%22quartzVehicle%22%3A%2220-283%22%2C%22replacementKeywords%22%3A%22gafas+nocturna%22%7D
+1.50244E+11,ask,411,gafas de oscuridad,2,https://www.amazon.es/lentes-vision-nocturna/s?k=lentes+vision+nocturna&af=%7B%22quartzVehicle%22%3A%2220-283%22%2C%22replacementKeywords%22%3A%22lentes+nocturna%22%7D
+1.50244E+11,ask,411,gafas de oscuridad,1,https://www.amazon.es/gafas-vision-nocturna/s?k=gafas+vision+nocturna&af=%7B%22quartzVehicle%22%3A%2220-283%22%2C%22replacementKeywords%22%3A%22gafas+nocturna%22%7D
+1.50244E+11,ask,420,ecuaciones de maxwell,5,http://hyperphysics.phy-astr.gsu.edu/hbasees/electric/maxeq.html
+1.50244E+11,ask,398,twitter prediction social events 2020,9,https://arxiv.org/pdf/1805.00358
+1.50244E+11,ask,411,gafas de oscuridad,4,https://www.airelibre.es/324-gafas-de-vision-nocturna
+1.50244E+11,ask,430,medidas castilla la mancha,1,https://www.castillalamancha.es/actualidad/notasdeprensa/el-gobierno-de-castilla-la-mancha-decreta-medidas-especiales-nivel-2-en-toda-la-comunidad-ante-el
+1.50244E+11,ask,411,gafas de oscuridad,3,https://elgranobservatorio.com/gafas-vision-nocturna/
+1.50244E+11,ask,411,gafas de oscuridad,5,https://tiendamilitaronline.com/gafas-de-vision-nocturna-militares/
+1.50244E+11,ask,411,gafas de oscuridad,6,https://clipset.com/glospex-gafas-de-luz-para-ver-en-la-oscuridad/
+1.50244E+11,ask,411,gafas de oscuridad,6,https://clipset.com/glospex-gafas-de-luz-para-ver-en-la-oscuridad/
+1.50244E+11,ask,430,medidas castilla la mancha,3,https://www.abc.es/espana/castilla-la-mancha/toledo/abci-nuevas-medidas-menos-restrictivas-entraran-vigor-lunes-castilla-la-mancha-202102161238_noticia.html

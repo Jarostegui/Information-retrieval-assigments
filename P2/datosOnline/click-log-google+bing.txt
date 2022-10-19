@@ -1,0 +1,185 @@
+ip,system,qid,qtext,rank_clicked,url
+1.50244E+11,google+bing,5,Ingredientes tartaletas mercadona,1,https://es.openfoodfacts.org/producto/8481772701166/tartaletas-mini-confiletas
+1.50244E+11,google+bing,11,figure editor online latex,5,https://www.mathcha.io/
+15024419910,google+bing,18,covid,1,https://cnecovid.isciii.es/covid19/
+15024419999,google+bing,20,ogor mawtribes best lists,1,https://aosshorts.com/top-mawtribes-lists/
+1.50244E+11,google+bing,23,Gargantua,1,https://es.wikipedia.org/wiki/Gargant%C3%BAa
+15024419910,google+bing,18,covid,3,https://www.lavanguardia.com/vida/20210224/6258863/coronavirus-espana-restricciones-vacunacion-pedro-sanchez-contagios-fallecidos-tercera-ola-ultimas-noticias-hoy-en-directo.html
+15024419956,google+bing,25,mejores jugadores de curling de espaÃƒÂ±a,2,https://www.hammerspain.es/2018/06/10/mikel-unanue-y-oihane-otaegi-mejores-jugadores-de-la-temporada-2017-2018/
+1.50244E+11,google+bing,23,Gargantua,3,http://www.bilbaopedia.info/gargantua
+1.50244E+11,google+bing,28,f1 sprint race format,2,#
+1.50244E+11,google+bing,23,Gargantua,6,https://www.acantilado.es/catalogo/gargantua-y-pantagruel/
+15024419910,google+bing,18,covid,7,https://www.who.int/es/emergencies/diseases/novel-coronavirus-2019
+15024419956,google+bing,25,mejores jugadores de curling de espaÃƒÂ±a,3,https://www.eurosport.es/curling/premios-a-los-mejores-jugadores-del-curling-espanol_sto5178490/story.shtml
+15024419910,google+bing,18,covid,9,https://www.redaccionmedica.com/directo/coronavirus-ultimas-noticias/20200410
+15024419956,google+bing,25,mejores jugadores de curling de espaÃƒÂ±a,4,https://www.pirinews.es/los-mejores-jugadores-de-curling-de-espana-competiran-este-fin-de-semana-en-jaca/
+15024419910,google+bing,18,covid,4,https://twitter.com/ComunidadMadrid?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor
+15024419910,google+bing,18,covid,4,https://twitter.com/ComunidadMadrid?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor
+1.50244E+11,google+bing,45,algorithm for non parametric regression "functional data"",2,https://www.researchgate.net/publication/230531517_Nonparametric_regression_on_functional_data_Inference_and_practical_aspects
+1.50244E+11,google+bing,44,que es peor la cerveza o la coca cola,2,https://es.quora.com/Qu%C3%A9-es-peor-para-tu-salud-La-Coca-Cola-o-la-cerveza
+95127170164,google+bing,59,Bajas en la segunda guerra mundial ,6,http://www.historiasiglo20.org/ESTADIS/muertos1939-1945.htm
+3710149120,google+bing,60,VacunaciÃƒÂ³n espaÃƒÂ±a porcentaje,1,https://www.abc.es/sociedad/abci-vacunacion-espana-vacunas-coronavirus-datos-nsv-202102171044_noticia.html
+1.50244E+11,google+bing,65,borzdynski,1,https://es.linkedin.com/in/%C3%B3scar-g%C3%B3mez-borzdynski-198138114
+1.50244E+11,google+bing,67,everything is ok jose luis,1,https://twitter.com/madridreigns/status/1090719700672266240
+1.50244E+11,google+bing,44,que es peor la cerveza o la coca cola,7,https://www.forocoches.com/foro/showthread.php?t=6910805
+95127170164,google+bing,69,Blas de lezo ,4,https://www.todoababor.es/historia/blas-de-lezo-biografia-defensor-cartagena-de-indias/
+1.50244E+11,google+bing,65,borzdynski,2,https://www.linkedin.com/in/oscargomezborz
+1.50244E+11,google+bing,67,everything is ok jose luis,2,https://www.marca.com/futbol/real-madrid/2019/01/15/5c3de677e2704ea9b08b4583.html
+176838989,google+bing,70,Tekken 7 how to ki charge,2,https://www.reddit.com/r/Tekken/comments/9oib7g/ki_charge_execution_help/
+176838989,google+bing,70,Tekken 7 how to ki charge,3,https://steamcommunity.com/app/389730/discussions/0/1743353798877608225/
+1.50244E+11,google+bing,65,borzdynski,5,https://www.tusclasesparticulares.com/profesores/oscar-gomez-borzdynski.htm
+1.50244E+11,google+bing,67,everything is ok jose luis,3,https://www.forocoches.com/foro/showthread.php?t=7000580
+95127170164,google+bing,74,Alvaro de BazÃƒÂ¡n ,1,https://es.wikipedia.org/wiki/%C3%81lvaro_de_Baz%C3%A1n
+1.50244E+11,google+bing,75,estado del arte de la ia detrÃƒÂ¡s de los robot aspirador,1,https://www.xataka.com/entrevistas/ia-permitira-robots-roomba-entender-nuestros-hogares-no-diez-anos-christian-cerda-coo-irobot
+1.50244E+11,google+bing,67,everything is ok jose luis,4,https://spainsnews.com/real-madrid-var-all-ok-jos-luis-go-ahead-the-phrase-that-keeps-the-indignation-of-real-madrid/
+1.95135E+11,google+bing,81,como hacer porra antequerana,1,https://www.directoalpaladar.com/recetas-de-sopas-y-cremas/como-hacer-porra-antequerana-receta-tradicional-malaguena
+1.50244E+11,google+bing,65,borzdynski,6,https://www.ancestry.com/name-origin?surname=borzdynski
+1.50244E+11,google+bing,87,RatÃƒÂ³n blanco,1,https://www.amazon.es/Ratones-Blanco-Teclados-perif%C3%A9ricos-entrada/s?rh=n%3A937890031%2Cp_n_feature_keywords_two_browse-bin%3A5103723031
+1.50244E+11,google+bing,87,RatÃƒÂ³n blanco,2,https://www.amazon.es/raton-inalambrico-blanco/s?k=raton+inalambrico+blanco
+1.50244E+11,google+bing,87,RatÃƒÂ³n blanco,2,https://www.amazon.es/raton-inalambrico-blanco/s?k=raton+inalambrico+blanco
+1.50244E+11,google+bing,44,que es peor la cerveza o la coca cola,9,https://www.fuentesaludable.com/que-causa-mas-dano-la-coca-cola-o-la-cerveza/
+1.50244E+11,google+bing,87,RatÃƒÂ³n blanco,2,https://www.amazon.es/raton-inalambrico-blanco/s?k=raton+inalambrico+blanco
+1.50244E+11,google+bing,87,RatÃƒÂ³n blanco,3,https://www.efeminista.com/raton-blanco-espia-buscada-por-nazis/
+1.50244E+11,google+bing,87,RatÃƒÂ³n blanco,8,https://www.milanuncios.com/mascotas/raton-blanco.htm
+1.50244E+11,google+bing,75,estado del arte de la ia detrÃƒÂ¡s de los robot aspirador,2,https://www.elcorteingles.es/ideas-y-consejos/tecnologia/que-hay-detras-del-mapeado-inteligente-de-un-robot-aspirador-y-como-sacarle-el-maximo-partido/
+1.50244E+11,google+bing,109,medidas covid castilla la mancha,1,https://www.castillalamancha.es/actualidad/notasdeprensa/el-gobierno-de-castilla-la-mancha-decreta-medidas-especiales-nivel-2-en-toda-la-comunidad-ante-el
+15024419954,google+bing,91,como ganar masa muscular,2,https://www.tuasaude.com/es/consejos-para-ganar-masa-muscular/
+1.50244E+11,google+bing,44,que es peor la cerveza o la coca cola,1,https://www.eluniversal.com.mx/menu/azucar-o-alcohol-que-hace-mas-dano
+15024419954,google+bing,91,como ganar masa muscular,5,https://www.runtastic.com/blog/es/como-aumentar-la-masa-muscular/
+15024419954,google+bing,91,como ganar masa muscular,6,https://www.dir.cat/blog/es/como-ganar-masa-muscular-los-3-factores-a-tener-en-cuenta/
+15024419954,google+bing,91,como ganar masa muscular,8,https://www.youtube.com/watch?v=p0hLYY1Llaw
+1.50244E+11,google+bing,129,Espionaje con delfines,2,https://www.bbc.com/mundo/noticias-internacional-48098550
+15024419954,google+bing,91,como ganar masa muscular,9,https://www.foodspring.es/magazine/plan-entrenamiento-para-ganar-masa-muscular
+1.50244E+11,google+bing,75,estado del arte de la ia detrÃƒÂ¡s de los robot aspirador,5,https://elpais.com/elpais/2021/02/01/escaparate/1612177663_150969.html
+15024419972,google+bing,133,cuantos litros de agua hay que beber al dÃƒÂ­a,1,https://www.mayoclinic.org/es-es/healthy-lifestyle/nutrition-and-healthy-eating/in-depth/water/art-20044256
+15024419954,google+bing,91,como ganar masa muscular,10,https://www.foodspring.es/magazine/plan-de-entrenamiento-para-ganar-masa-muscular
+15024419999,google+bing,137,best aos armies,1,https://aosshorts.com/age-of-sigmar-power-rankings/
+1.50244E+11,google+bing,75,estado del arte de la ia detrÃƒÂ¡s de los robot aspirador,6,https://www.elmundo.es/tecnologia/gadgets/2020/07/05/5ef456fafc6c83b5098b45e6.html
+1.50244E+11,google+bing,129,Espionaje con delfines,1,https://www.lavanguardia.com/natural/animaladas-videos/20190502/461973666218/delfin-espia-reino-animal.html
+15024419972,google+bing,133,cuantos litros de agua hay que beber al dÃƒÂ­a,3,https://www.bbc.com/mundo/vert-fut-48097740
+176838989,google+bing,145,Obsidian samurai,4,https://es.wikipedia.org/wiki/Yasuke
+1.50244E+11,google+bing,75,estado del arte de la ia detrÃƒÂ¡s de los robot aspirador,8,https://www.neo2.com/cecotec-la-marca-espanola-empresa/
+176838989,google+bing,145,Obsidian samurai,2,https://nioh2.wiki.fextralife.com/Obsidian+Samurai
+15024419972,google+bing,133,cuantos litros de agua hay que beber al dÃƒÂ­a,4,https://www.vitonica.com/prevencion/cuanto-agua-hay-que-beber-al-dia-respuesta-no-dos-litros
+1.50244E+11,google+bing,75,estado del arte de la ia detrÃƒÂ¡s de los robot aspirador,9,https://www.muyinteresante.es/tecnologia/articulo/ventajas-y-riesgos-de-la-inteligencia-artificial-651449483429
+1.50244E+11,google+bing,149,agricultura 2020 datos.gob.es,2,https://datos.gob.es/es/noticias-tags/agricultura
+1.50244E+11,google+bing,129,Espionaje con delfines,4,https://www.rtve.es/alacarta/audios/memoria-de-delfin/memoria-delfin-espionaje-desde-garganta-profunda-nuestros-dias-23-05-16/3613626/
+1.50244E+11,google+bing,129,Espionaje con delfines,3,https://www.elperiodico.com/es/internacional/20150819/hamas-caputara-un-delfin-espia-de-israel-4442046
+1.50244E+11,google+bing,140,calÃƒÂ§ot subatÃƒÂ³mico,1,https://sites.google.com/view/calsot-subatomico/home/
+176838989,google+bing,176,Yukio mishima,1,https://es.wikipedia.org/wiki/Yukio_Mishima
+15024419956,google+bing,168,master universitario en ciencia de datos uam,2,https://uam.es/CentroEstudiosPosgrado/MU_Ciencia_Datos/1446801510863.htm?language=es_ES&nDept=3&pid=1446755975574&pidDept=1446755975831
+1.50244E+11,google+bing,169,Covid Madrid situacion,2,https://www.comunidad.madrid/sites/default/files/doc/sanidad/epid/informe_epidemiologico_semanal_covid.pdf
+176838989,google+bing,176,Yukio mishima,2,https://www.elmundo.es/cultura/2015/11/25/565506a0268e3ea1198b4644.html
+1.50244E+11,google+bing,129,Espionaje con delfines,5,https://www.ngenespanol.com/el-mundo/historia-secreta-animales-espias-cia/
+176838989,google+bing,184,Yukio mishima death,4,https://www.bbc.com/culture/article/20201124-yukio-mishima-the-strange-tale-of-japans-infamous-novelist
+15024419954,google+bing,91,como ganar masa muscular,11,https://www.vitonica.com/entrenamiento/todo-que-tienes-que-saber-quieres-aumentar-tu-masa-muscular-gimnasio-1
+1.50244E+11,google+bing,169,Covid Madrid situacion,6,https://www.newtral.es/mapa-covid-coronavirus-madrid/
+15024419954,google+bing,91,como ganar masa muscular,12,https://skilledfitness.com/ganar-masa-muscular/
+176838989,google+bing,184,Yukio mishima death,2,https://es.wikipedia.org/wiki/Yukio_Mishima
+15024419972,google+bing,193,mascarilla ffp4 precio,1,https://spanish.alibaba.com/g/disposable-ffp2-ffp3-ffp4-dust-mask.html
+15024419972,google+bing,193,mascarilla ffp4 precio,3,https://behindhermask.es/mascarilla-ffp4-reutilizables.html
+15024419972,google+bing,193,mascarilla ffp4 precio,2,https://behindhermask.es/mascarilla-ffp4
+15024419954,google+bing,202,para que sirve la creatina ,3,https://www.palabraderunner.com/creatina/
+15024419954,google+bing,202,para que sirve la creatina ,4,https://www.tuasaude.com/es/tomar-creatina/
+15024419954,google+bing,202,para que sirve la creatina ,5,https://www.fitnessrevolucionario.com/2015/04/26/creatina-uno-de-los-mejores-suplementos-beneficios-usos-dosis-riesgos/
+1.50244E+11,google+bing,215,Spiderman new movie troll,1,https://deadline.com/2021/02/spider-man-stars-first-images-troll-fans-title-cards-1234699658/
+1.50244E+11,google+bing,219,mejores series de comedia,1,https://www.espinof.com/listas/mejores-series-comedia-netflix-hbo-amazon-demas-plataformas-streaming
+1.50244E+11,google+bing,215,Spiderman new movie troll,7,https://www.buzz.ie/movies-tv/spider-man-3-cast-troll-fans-over-films-title-419298
+15024419999,google+bing,137,best aos armies,4,https://spikeybits.com/2020/01/top-10-aos-armies-of-the-2020-lvo.html
+1.50244E+11,google+bing,169,Covid Madrid situacion,9,https://www.20minutos.es/minuteca/coronavirus-madrid/
+1.50244E+11,google+bing,225,datasets MAPA,1,https://datos.gob.es/en/catalogo/e00125901-spaignme1250vectorserie
+176838989,google+bing,228,King gizzard lw release date,2,https://es.wikipedia.org/wiki/King_Gizzard_%26_the_Lizard_Wizard
+1.50244E+11,google+bing,225,datasets MAPA,2,https://datos.gob.es/en/catalogo?tags=Mapas+de+cultivo
+1.50244E+11,google+bing,234,consejos valheim,1,https://vandal.elespanol.com/guias/guia-valheim-trucos-consejos-y-secretos/consejos-basicos
+1.50244E+11,google+bing,225,datasets MAPA,2,https://datos.gob.es/en/catalogo?tags=Mapas+de+cultivo
+176838989,google+bing,228,King gizzard lw release date,6,https://liveforlivemusic.com/news/king-gizzard-lizard-wizard-new-single-pleura-live-video/
+1.50244E+11,google+bing,225,datasets MAPA,6,https://opendata-ajuntament.barcelona.cat/data/es/dataset
+1.50244E+11,google+bing,240,quien es grisha jaeger,2,https://shingeki-no-kyojin.fandom.com/es/wiki/Grisha_Jaeger
+1.50244E+11,google+bing,240,quien es grisha jaeger,5,https://elcomercio.pe/tvmas/series/attack-on-titan-grisha-jaeger-historia-humanidad-padre-eren-nnda-nnlt-noticia-645735-noticia/
+176838989,google+bing,228,King gizzard lw release date,8,https://glidemagazine.com/253826/king-gizzard-the-lizard-wizard-announce-17th-studio-lp-l-w-out-next-week/
+1.50244E+11,google+bing,247,alejandro bellogin uam,1,http://ir.ii.uam.es/~alejandro/
+1.50244E+11,google+bing,234,consejos valheim,3,https://es.digitaltrends.com/guias/guia-valheim-consejos/
+15024419954,google+bing,202,para que sirve la creatina ,6,https://www.youtube.com/watch?v=n5NSGPPyISw
+95127170164,google+bing,253,Rey Carlos III de espaÃƒÂ±a ,5,https://www.biografiasyvidas.com/biografia/c/carlos_iii.htm
+1.50244E+11,google+bing,219,mejores series de comedia,6,http://www.sensacine.com/series-tv/mejores/genero-13005/pais-5002/
+1.50244E+11,google+bing,247,alejandro bellogin uam,2,https://portalcientifico.uam.es/ipublic/agent-personal/profile/iMarinaID/04-261320/name/BELLOGIN-KOUKI-ALEJANDRO
+1.50244E+11,google+bing,247,alejandro bellogin uam,3,https://es.linkedin.com/in/alejandro-bellog%C3%ADn-8011724/es-es
+15024419954,google+bing,202,para que sirve la creatina ,7,https://www.youtube.com/watch?v=7dtvqXWmB4g
+15024419954,google+bing,202,para que sirve la creatina ,8,https://www.vitonica.com/alimentos-funcionales/mitos-verdades-creatina-que-tienes-que-saber-este-suplemento
+1.50244E+11,google+bing,272,Resultados champions,3,https://resultados.as.com/resultados/futbol/champions/jornada/
+15024419954,google+bing,202,para que sirve la creatina ,10,https://www.foodspring.es/magazine/ganar-masa-muscular-con-creatina
+15024419954,google+bing,202,para que sirve la creatina ,11,https://vidabirdman.com/blogs/recetas-saludables-veganas/10-beneficios-de-tomar-creatina
+15024419972,google+bing,282,llevar gafas protege contagio covid,1,https://www.lavanguardia.com/vivo/lifestyle/20200925/483651931682/gafas-evitar-coronavirus.html
+1.50244E+11,google+bing,284,pablito castillos,1,https://www.youtube.com/channel/UCJ5CoNKGFiOSXt1sih0uSXg
+1.50244E+11,google+bing,284,pablito castillos,2,https://www.facebook.com/directory/pages/A-12110689-12115824
+1.50244E+11,google+bing,295,Juegos olimpicos 2020,2,https://tokyo2020.org/es/
+1.50244E+11,google+bing,295,Juegos olimpicos 2020,3,https://tokyo2020.org/es/deportes/
+15024419972,google+bing,282,llevar gafas protege contagio covid,7,https://www.20minutos.es/noticia/4597115/0/llevar-gafas-protege-contagio-covid/
+1.50244E+11,google+bing,295,Juegos olimpicos 2020,6,https://www.eurosport.es/juegos-olimpicos/tokio-2020/2020/calendario-horarios-tokio-2020-fechas-schedule_sto7395156/story.shtml
+1.50244E+11,google+bing,129,Espionaje con delfines,6,https://es.euronews.com/2019/04/30/una-ballena-espia-de-rusia
+1.50244E+11,google+bing,284,pablito castillos,3,https://www.instagram.com/pablitocastilloo/?hl=es
+1.50244E+11,google+bing,295,Juegos olimpicos 2020,4,https://es.wikipedia.org/wiki/Juegos_Ol%C3%ADmpicos_de_Tokio_2020
+15024419956,google+bing,308,np.linalg.svd,1,https://numpy.org/doc/stable/reference/generated/numpy.linalg.svd.html
+1.50244E+11,google+bing,284,pablito castillos,6,https://www.periodicodeibiza.es/deportes/deporte-ibiza/2021/01/13/1229595/copa-del-rey-horario-pena-deportiva-valladolid.html
+1.50244E+11,google+bing,295,Juegos olimpicos 2020,5,https://www.jrailpass.com/blog/es/tokio-2020-juegos-olimpicos
+1.50244E+11,google+bing,309,stochastic differential equations applied to stock market,1,https://arxiv.org/pdf/1707.05419
+1.50244E+11,google+bing,316,analyze novel using natural language proccesing,1,https://www.quora.com/How-can-I-use-natural-language-processing-methods-to-analyze-some-relationships-in-a-novel
+1.50244E+11,google+bing,295,Juegos olimpicos 2020,7,https://www.marca.com/juegos-olimpicos/2020/03/30/5e81c6d3ca474188308b4575.html
+15024419954,google+bing,326,por quÃƒÂ© Alejandro Bellogin es el mejor tutor de la universidad,1,https://es.linkedin.com/in/alejandro-bellog%C3%ADn-8011724/es-es
+15024419954,google+bing,326,por quÃƒÂ© Alejandro Bellogin es el mejor tutor de la universidad,2,http://ir.ii.uam.es/~alejandro/
+176838989,google+bing,334,Best bass player,1,https://www.rollingstone.com/music/music-lists/50-greatest-bassists-of-all-time-1003022/
+15024419972,google+bing,282,llevar gafas protege contagio covid,6,https://www.abc.es/salud/enfermedades/abci-coronavirus-como-puedo-proteger-ojos-para-evitar-contagio-202004011455_noticia.html
+15024419954,google+bing,326,por quÃƒÂ© Alejandro Bellogin es el mejor tutor de la universidad,4,https://www.yumpu.com/es/document/view/13250931/r-information-retrieval-group-universidad-autonoma-de-madrid
+1.50244E+11,google+bing,340,ir ii uam,1,http://ir.ii.uam.es/
+1.50244E+11,google+bing,342,como aprender euskera en una semana,1,https://turbolangs.com/aprender-euskera-empezar/
+95127170164,google+bing,341,Tercios viejo de NÃƒÂ¡poles ,2,https://www.pinterest.es/pin/365284219752766755/
+176838989,google+bing,334,Best bass player,3,https://www.rollingstone.com/music/music-lists/rolling-stone-readers-pick-the-top-ten-bassists-of-all-time-10325/
+1.50244E+11,google+bing,340,ir ii uam,2,http://ir.ii.uam.es/publications/
+1.50244E+11,google+bing,340,ir ii uam,3,http://ir.ii.uam.es/castells/
+176838989,google+bing,334,Best bass player,4,https://www.guitarworld.com/features/the-100-best-bass-players-of-all-time
+1.50244E+11,google+bing,340,ir ii uam,4,http://ir.ii.uam.es/~alejandro/
+95127170164,google+bing,341,Tercios viejo de NÃƒÂ¡poles ,1,https://es.wikipedia.org/wiki/Tercio_Viejo_de_N%C3%A1poles
+1.50244E+11,google+bing,340,ir ii uam,7,http://ir.ii.uam.es/~search/publications/upgrade05.pdf
+1.50244E+11,google+bing,350,machine learning applied in finance,2,https://corporatefinanceinstitute.com/resources/knowledge/other/machine-learning-in-finance/
+1.50244E+11,google+bing,353,predict hashtags twitter,1,https://github.com/bdhingra/tweet2vec
+1.50244E+11,google+bing,350,machine learning applied in finance,5,https://medium.com/breathe-publication/top-10-applications-of-machine-learning-in-finance-9bfc911faf3f
+1.50244E+11,google+bing,358,Tabla conjugaciÃƒÂ³n espaÃƒÂ±ol,2,https://conjugador.reverso.net/conjugacion-espanol.html
+1.95135E+11,google+bing,359,rotation forest,1,https://www.researchgate.net/publication/6806976_Rotation_Forest_A_New_Classifier_Ensemble_Method
+1.50244E+11,google+bing,360,Mapa vacunaciÃƒÂ³n espaÃƒÂ±a,1,https://www.eldiario.es/sociedad/vacuna-covid-mapas-graficos-proceso-vacunacion-espana-mundo-febrero-20_1_6782953.html
+1.50244E+11,google+bing,350,machine learning applied in finance,10,https://fayrix.com/blog/machine-learning-in-finance
+1.50244E+11,google+bing,358,Tabla conjugaciÃƒÂ³n espaÃƒÂ±ol,3,http://www.verbolog.com/conjuga.htm
+1.50244E+11,google+bing,358,Tabla conjugaciÃƒÂ³n espaÃƒÂ±ol,4,http://www.iesseneca.net/iesseneca/IMG/pdf/CONJUGACION.pdf
+1.50244E+11,google+bing,365,kimetsu no yaiba season 2,5,https://as.com/meristation/2021/02/15/noticias/1613371566_125569.html
+15024419997,google+bing,372,Pokemon first generation damage formula,4,https://pokemon.fandom.com/wiki/Damage_Calculation
+15024419997,google+bing,372,Pokemon first generation damage formula,1,https://bulbapedia.bulbagarden.net/wiki/Damage
+1.50244E+11,google+bing,358,Tabla conjugaciÃƒÂ³n espaÃƒÂ±ol,6,https://issuu.com/maestroselfa/docs/tablas_conjugacines_verbales
+15024419997,google+bing,372,Pokemon first generation damage formula,11,https://www.reddit.com/r/TruePokemon/comments/1bp0po/pok%C3%A9mons_damage_formula_is_weird_some_thoughts_as/
+1.50244E+11,google+bing,358,Tabla conjugaciÃƒÂ³n espaÃƒÂ±ol,8,https://es.wikipedia.org/wiki/Tiempos_verbales_en_espa%C3%B1ol
+1.95135E+11,google+bing,359,rotation forest,5,https://hub.packtpub.com/rotation-forest-classifier-ensemble-based-feature-extraction/
+15024419956,google+bing,381,mejores auriculares cancelacion de ruido,2,https://www.pcworld.es/mejores-productos/otros-dispositivos/auriculares-cancelacion-ruido-3791092/
+15024419997,google+bing,372,Pokemon first generation damage formula,11,https://www.reddit.com/r/TruePokemon/comments/1bp0po/pok%C3%A9mons_damage_formula_is_weird_some_thoughts_as/
+1.50244E+11,google+bing,358,Tabla conjugaciÃƒÂ³n espaÃƒÂ±ol,9,https://www.unprofesor.com/lengua-espanola/los-tiempos-verbales-en-espanol-2749.html
+1.95135E+11,google+bing,359,rotation forest,6,https://link.springer.com/chapter/10.1007/978-3-540-72523-7_46
+1.50244E+11,google+bing,360,Mapa vacunaciÃƒÂ³n espaÃƒÂ±a,5,https://www.rtve.es/noticias/20210223/campana-vacunacion-espana/2062499.shtml
+15024419910,google+bing,390,NLP,1,https://es.wikipedia.org/wiki/Procesamiento_de_lenguajes_naturales
+15024419972,google+bing,392,paraiso fiscal real madrid,1,https://www.elconfidencial.com/deportes/futbol/2021-02-23/real-madrid-football-leaks-providence-caiman-paraisos-fiscales_2962063/
+1.50244E+11,google+bing,388,kimetsu no yaiba mugen train,8,https://www.imdb.com/title/tt11032374/
+1.95135E+11,google+bing,359,rotation forest,7,https://bmcgenomics.biomedcentral.com/articles/10.1186/s12864-019-6304-y
+1.50244E+11,google+bing,394,ataraxico,3,https://www.lexico.com/es/definicion/ataraxico
+1.95135E+11,google+bing,359,rotation forest,7,https://bmcgenomics.biomedcentral.com/articles/10.1186/s12864-019-6304-y
+1.50244E+11,google+bing,388,kimetsu no yaiba mugen train,1,https://www.filmaffinity.com/es/film164016.html
+15024419910,google+bing,395,NLP google models,1,https://cloud.google.com/natural-language?hl=es
+1.50244E+11,google+bing,358,Tabla conjugaciÃƒÂ³n espaÃƒÂ±ol,9,https://www.unprofesor.com/lengua-espanola/los-tiempos-verbales-en-espanol-2749.html
+176838989,google+bing,409,James webb telescope,1,https://es.wikipedia.org/wiki/Telescopio_espacial_James_Webb
+176838989,google+bing,409,James webb telescope,2,https://www.esa.int/Space_in_Member_States/Spain/El_telescopio_espacial_James_Webb_se_lanzara_en_octubre_de_2021
+1.50244E+11,google+bing,423,Coche mÃƒÂ¡s rÃƒÂ¡pido barato,1,https://es.motor1.com/features/234175/coches-segunda-mano-potentes-baratos/
+1.50244E+11,google+bing,353,predict hashtags twitter,2,https://wayneyuwu.com/paper/icomp_hashtag.pdf
+15024419910,google+bing,436,spotify,1,https://www.spotify.com/es/
+1.50244E+11,google+bing,441,Elecciones catalanas,1,https://elpais.com/noticias/elecciones-catalanas/
+1.50244E+11,google+bing,423,Coche mÃƒÂ¡s rÃƒÂ¡pido barato,3,https://www.autopista.es/noticias-motor/los-5-coches-mas-baratos-que-te-dan-mas-alegrias-al-volante_136711_102.html
+176838989,google+bing,447,Eps uam,4,https://www.uam.es/EPS/Matricula/1242660774988.htm
+1.50244E+11,google+bing,441,Elecciones catalanas,2,https://elpais.com/espana/elecciones-catalanas/2021-02-18/resultados-de-las-elecciones-catalanas-y-reacciones-de-los-partidos-en-directo.html
+1.50244E+11,google+bing,448,prevision tiempo madrid,1,https://www.eltiempo.es/madrid.html
+176838989,google+bing,454,Por que la uam es mejor que la upm informqtica,1,https://foro.noticias3d.com/vbulletin/showthread.php?t=227504
+176838989,google+bing,454,Por que la uam es mejor que la upm informqtica,2,https://yaq.es/foro/la-universidad-un-mundo/informatica-la-uam-o-la-upm
+176838989,google+bing,454,Por que la uam es mejor que la upm informqtica,3,https://www.lavanguardia.com/local/madrid/20180509/443455530662/la-complutense-la-autonoma-y-la-politecnica-entre-las-7-primeras-de-espana.html

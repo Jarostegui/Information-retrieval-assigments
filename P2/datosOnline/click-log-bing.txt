@@ -1,0 +1,5 @@
+ip,system,qid,qtext,rank_clicked,url
+15024419956,bing,56,weather today madrid,1,https://weather.com/weather/today/l/Madrid+Madrid+Spain?canonicalCityId=012919d8c91328c62aa3e2143536637976b9cdd921055ac65e4aa0cfb2209fbf
+1.50244E+11,bing,141,masa de pizza sin gluten,1,https://www.manaproductossingluten.com/
+15024419910,bing,187,nocturno chopin 1 op.9,1,https://www.youtube.com/watch?v=MPvS0g2papI
+15024419910,bing,187,nocturno chopin 1 op.9,2,https://www.youtube.com/watch?v=YGRO05WcNDk

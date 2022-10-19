@@ -1,0 +1,179 @@
+ip,system,qid,qtext,rank_clicked,url
+1.50244E+11,google,3,es la leche con cereales una sopa,5,https://www.reddit.com/r/vzla/comments/hm939o/lunes_6_de_abril_de_2020_el_cereal_es_una_sopa/
+1.50244E+11,google,3,es la leche con cereales una sopa,8,https://www.chilecomedia.com/faq/el-cereal-con-leche-puede-ser-considerado-una-sopa/
+1.50244E+11,google,3,es la leche con cereales una sopa,1,https://qastack.mx/cooking/76084/is-cereal-a-soup
+15024419972,google,6,cuÃƒÂ¡nto cobra un jugador profesional de fÃƒÂºtbol sala,1,https://sacandodebanda.com/2019/10/16/salarios-clausulas-futbol-sala/
+15024419972,google,6,cuÃƒÂ¡nto cobra un jugador profesional de fÃƒÂºtbol sala,2,#
+15024419972,google,6,cuÃƒÂ¡nto cobra un jugador profesional de fÃƒÂºtbol sala,3,https://www.saberia.com/cuanto-cobra-un-jugador-de-futbol-sala/
+15024419972,google,6,cuÃƒÂ¡nto cobra un jugador profesional de fÃƒÂºtbol sala,4,https://www.merca2.es/sueldos-jugadores-futbol-sala/6/
+15024419972,google,6,cuÃƒÂ¡nto cobra un jugador profesional de fÃƒÂºtbol sala,5,https://www.merca2.es/sueldos-jugadores-futbol-sala/
+1.50244E+11,google,14,how to exit vim,2,https://phoenixnap.com/kb/how-to-exit-vim
+15024419972,google,6,cuÃƒÂ¡nto cobra un jugador profesional de fÃƒÂºtbol sala,6,https://www.futsalcorner.es/la-columna/cifras-numeros-futsal/
+1.50244E+11,google,14,how to exit vim,3,https://stackoverflow.com/questions/11828270/how-do-i-exit-the-vim-editor
+1.50244E+11,google,13,pokemon first generation damage formula,4,https://pokemon.fandom.com/wiki/Damage_Calculation
+15024419972,google,6,cuÃƒÂ¡nto cobra un jugador profesional de fÃƒÂºtbol sala,7,https://cuanto.top/gana/jugador-futbol-sala/
+1.50244E+11,google,14,how to exit vim,6,https://dev.to/jeremy/how-to-exit-vim-11dm
+1.50244E+11,google,24,tribu himba espaÃƒÂ±a,1,https://www.20minutos.es/noticia/866758/0/perdidos/tribu/espana/
+15024419972,google,6,cuÃƒÂ¡nto cobra un jugador profesional de fÃƒÂºtbol sala,10,https://futboljobs.com/blog/quieres-saber-cual-es-el-sueldo-minimo-de-un-jugador-de-segunda-division/
+1.50244E+11,google,24,tribu himba espaÃƒÂ±a,2,https://es.wikipedia.org/wiki/Perdidos_en_la_ciudad
+15024419972,google,6,cuÃƒÂ¡nto cobra un jugador profesional de fÃƒÂºtbol sala,11,https://www.forocoches.com/foro/showthread.php?t=2757667
+1.50244E+11,google,14,how to exit vim,7,https://itsfoss.com/how-to-exit-vim/
+1.50244E+11,google,27,f1 sprint race format,1,https://www.essentiallysports.com/f1-news-everything-you-need-to-know-about-the-sprint-race-format-and-f1s-plan-of-implementation/
+1.50244E+11,google,24,tribu himba espaÃƒÂ±a,2,https://es.wikipedia.org/wiki/Perdidos_en_la_ciudad
+1.50244E+11,google,13,pokemon first generation damage formula,1,https://bulbapedia.bulbagarden.net/wiki/Damage
+1.50244E+11,google,42,Alejandro Cabana,1,https://es.linkedin.com/in/alejandro-cabana
+1.50244E+11,google,14,how to exit vim,9,https://www.cyberciti.biz/faq/linux-unix-exit-vim-editor/
+1.50244E+11,google,27,f1 sprint race format,3,https://www.formula1.com/en/latest/article.broad-support-from-f1-teams-for-new-sprint-race-format-at-some-races.7o0u5or8wIxY62OgYYjtcY.html
+1.50244E+11,google,46,cb cuenca femenino,2,https://www.cbcuencafemenino.com/
+1.50244E+11,google,14,how to exit vim,11,https://hashrocket.com/blog/posts/how-to-quit-vim
+1.50244E+11,google,42,Alejandro Cabana,4,https://www.instagram.com/cabanaalejandro/?hl=es
+176838989,google,53,kg&tlw,1,https://kinggizzardandthelizardwizard.com/
+176838989,google,53,kg&tlw,2,https://www.reddit.com/r/KingGizzard/comments/iyfsmb/where_do_i_start_with_kgtlw/
+1.50244E+11,google,42,Alejandro Cabana,5,https://www.youtube.com/channel/UCdAX_8XS0Cm7RsQwE0tRuUw
+1.50244E+11,google,57,twitter temporal series analysis,2,https://www.oreilly.com/library/view/mastering-social-media/9781783552016/ch02s06.html
+1.50244E+11,google,27,f1 sprint race format,7,https://www.racefans.net/2021/02/09/f1-wants-to-trial-sprint-races-and-friday-qualifying-at-three-rounds-in-2021/
+176838989,google,53,kg&tlw,4,https://www.amazon.com/-/es/gp/customer-reviews/R3QRV5AV1B4U2F?ASIN=B08LFZZ3Z7
+176838989,google,53,kg&tlw,5,https://www.behance.net/search/projects?search=kg%26tlw
+1.50244E+11,google,57,twitter temporal series analysis,3,http://ieeexplore.ieee.org/document/7738815
+1.50244E+11,google,64,schwartz pick interpolation,1,https://en.wikipedia.org/wiki/Nevanlinna%E2%80%93Pick_interpolation
+1.50244E+11,google,63,twitter hashtag time series analysis,3,https://towardsdatascience.com/twitter-trends-analysis-using-python-fc78146f2f72
+15024419956,google,61,quÃƒÂ© dia es el cambio de hora,3,https://www.elperiodico.com/es/sociedad/20210203/cambio-hora-marzo-2021-7368071
+1.50244E+11,google,13,pokemon first generation damage formula,2,https://bulbapedia.bulbagarden.net/wiki/User:FIQ/Damage_calculation
+1.50244E+11,google,68,Alvaro sosa,1,https://www.instagram.com/alvarososac/?hl=es
+1.50244E+11,google,46,cb cuenca femenino,3,https://www.gigantes.com/tema/cb-cuenca-femenino/
+1.50244E+11,google,13,pokemon first generation damage formula,5,https://www.math.miami.edu/~jam/azure/compendium/battdam.htm
+1.50244E+11,google,46,cb cuenca femenino,4,https://www.youtube.com/channel/UC5FQaewl2dVba97DeFuIEew
+1.50244E+11,google,85,depth meassures in banach space,2,https://arxiv.org/abs/1803.03627
+1.50244E+11,google,63,twitter hashtag time series analysis,5,https://github.com/twitterdev/Gnip-Trend-Detection
+1.50244E+11,google,13,pokemon first generation damage formula,6,https://www.serebii.net/games/damage.shtml
+176838989,google,97,Battle of sekigahara,1,https://es.wikipedia.org/wiki/Batalla_de_Sekigahara
+1.50244E+11,google,46,cb cuenca femenino,9,http://eldeporteconquense.com/noticias/baloncesto-noticias/2021/01/27/el-cb-cuenca-femenino-no-jugara-las-siguientes-dos-jornadas-al-trasladarlas-la-fbclm/
+176838989,google,97,Battle of sekigahara,2,https://en.wikipedia.org/wiki/Battle_of_Sekigahara
+1.50244E+11,google,100,depth measure functional data Cuevas,1,https://www.researchgate.net/publication/24054015_Robust_estimation_and_classification_for_functional_data_via_projection-based_depth_notions
+176838989,google,97,Battle of sekigahara,5,https://www.nakasendoway.com/the-story-of-the-battle-of-sekigahara/
+176838989,google,97,Battle of sekigahara,7,https://www.pinterest.com/pin/538461699167103194/
+1.50244E+11,google,63,twitter hashtag time series analysis,6,https://arxiv.org/pdf/1703.07518
+15024419997,google,99,griffith did nothing wrong,4,https://www.reddit.com/r/OutOfTheLoop/comments/7nacf2/where_did_the_idea_griffith_did_nothing_wrong/
+1.50244E+11,google,63,twitter hashtag time series analysis,8,https://upcommons.upc.edu/bitstream/handle/2099.1/14421/Xuriguera.pdf?sequence=1&isAllowed=y
+95127170164,google,113,Agujeros de gusano,1,https://es.wikipedia.org/wiki/Agujero_de_gusano
+1.50244E+11,google,117,datasets agricultura espaÃƒÂ±a 2020,1,https://datos.gob.es/en/catalogo?theme_id=medio-rural-pesca
+15024419910,google,119,scopus advanced search query,1,https://www.scopus.com/search/form.uri?display=advanced
+176838989,google,126,Intersection 2 lists python,1,https://www.geeksforgeeks.org/python-intersection-two-lists/
+95127170164,google,113,Agujeros de gusano,6,https://www.investigacionyciencia.es/noticias/sera-posible-detectar-un-agujero-de-gusano-en-el-corazn-de-la-va-lctea-17926
+176838989,google,126,Intersection 2 lists python,3,https://stackoverflow.com/questions/3697432/how-to-find-list-intersection
+1.50244E+11,google,63,twitter hashtag time series analysis,9,https://iopscience.iop.org/article/10.1088/1757-899X/263/4/042081
+15024419910,google,119,scopus advanced search query,2,https://rushu.libguides.com/scopushelp/advancedsearch
+15024419997,google,99,griffith did nothing wrong,9,https://www.amazon.com/-/es/JANNINSE-Griffith-Nothing-Berserk-almohada/dp/B08L3D8VKR
+1.50244E+11,google,117,datasets agricultura espaÃƒÂ±a 2020,5,https://administracionelectronica.gob.es/pae_Home/pae_Actualidad/pae_Noticias/Anio2018/Mayo/Noticia-2018-05-07-Ranking-dataset-visitados-datos.gob.es.html
+95127170164,google,135,Estrellas de neutrones,4,https://www.nationalgeographic.es/espacio/estrellas-de-neutrones
+1.50244E+11,google,139,calÃƒÂ§ot subatÃƒÂ³mico,3,https://tucalcotsubatomico.wordpress.com/
+176838989,google,144,Obsidian samurai,4,https://es.wikipedia.org/wiki/Yasuke
+1.50244E+11,google,139,calÃƒÂ§ot subatÃƒÂ³mico,6,https://calcotsubatomicocom.wordpress.com/
+176838989,google,144,Obsidian samurai,5,https://en.wikipedia.org/wiki/Yasuke
+15024419910,google,153,receta tarta de queso,1,https://www.dulcespostres.com/tarta-de-queso-fria/
+15024419956,google,167,master universitario en ciencia de datos uam,1,https://www.uam.es/EPS/MasterCD/1446800691531.htm?language=en&nodepath=M?ster%20Universitario%20en%20Ciencia%20de%20Datos
+1.50244E+11,google,177,Sueldo profesores UAM,1,https://transparencia.uam.es/wp-content/uploads/2020/05/Retribuciones-PDI.pdf
+15024419956,google,167,master universitario en ciencia de datos uam,2,https://uam.es/CentroEstudiosPosgrado/MU_Ciencia_Datos/1446801510863.htm?language=es_ES&nDept=3&pid=1446755975574&pidDept=1446755975831
+1.50244E+11,google,177,Sueldo profesores UAM,2,https://uam.es/UAM/documento/1446727414869/RETRIBUCIONES%20PROFESORES%20CONTRATADOS%20L.pdf?blobheader=application/pdf
+1.50244E+11,google,181,Cierre perimetral San SebastiÃƒÂ¡n de los reyes,2,https://www.diariodesanse.com/2021/02/05/habra-restricciones-a-la-movilidad-en-todo-sanse-y-alcobendas-desde-el-lunes-11-2/
+1.50244E+11,google,183,spiderman 3 title,2,https://www.polygon.com/2021/2/23/22298156/spider-man-3-title-phone-home-tom-holland
+1.50244E+11,google,177,Sueldo profesores UAM,6,http://uam.es/UAM/Contratados-laborales-y-titulares-interinos/1446768938747.htm
+1.50244E+11,google,186,spiro papadapaconstantikasgianopolopodopotopolis,2,https://simpsonswiki.com/wiki/Spiro_Papadapaconstantikasgianopolopodopotopolis
+1.50244E+11,google,177,Sueldo profesores UAM,9,http://www.uam.es/UAM/PDI
+1.50244E+11,google,192,noticias euroliga,1,https://as.com/baloncesto/euroliga.html
+1.50244E+11,google,188,calÃƒÂ§ot subatomico,1,https://sites.google.com/view/calsot-subatomico/home/
+1.50244E+11,google,181,Cierre perimetral San SebastiÃƒÂ¡n de los reyes,3,https://www.20minutos.es/minuteca/san-sebastian-de-los-reyes/
+1.50244E+11,google,188,calÃƒÂ§ot subatomico,3,https://calcotsubatomico0.wordpress.com/
+1.50244E+11,google,186,spiro papadapaconstantikasgianopolopodopotopolis,3,https://simpsonswiki.com/wiki/Spiro%27s
+95127170164,google,199,Puedo contagiar si tengo anticuerpos del Covid ,2,https://hipertextual.com/2020/11/contagiar-anticuerpos
+15024419997,google,205,griffith did nothing wrong,4,https://www.reddit.com/r/OutOfTheLoop/comments/7nacf2/where_did_the_idea_griffith_did_nothing_wrong/
+15024419910,google,208,watch game of thrones free online,1,https://got8.org/
+1.50244E+11,google,192,noticias euroliga,3,https://www.marca.com/baloncesto/euroliga.html
+1.50244E+11,google,183,spiderman 3 title,4,https://screenrant.com/spider-man-3-fake-title-reveal-tom-holland/
+15024419932,google,218,espionaje con delfines,1,https://www.lavanguardia.com/natural/animaladas-videos/20190502/461973666218/delfin-espia-reino-animal.html
+95127170164,google,221,Mejor universidad de madrid para estudiar ingenierÃƒÂ­a ,3,https://www.fundacioncyd.org/universidades-destacadas-estudiar-ingenieria-en-espana/
+15024419910,google,208,watch game of thrones free online,5,https://www.bestsevenreviews.com/howto/watch-game-of-thrones-online-free/
+1.50244E+11,google,226,grad cam for model resnet,2,https://medium.com/@stepanulyanin/grad-cam-for-resnet152-network-784a1d65f3
+1.50244E+11,google,232,cuanto cobra ibai,1,https://okdiario.com/tt/sueldo-youtubers-cuanto-cobran-rubius-ibai-llanos-auronplay-6779182
+1.50244E+11,google,226,grad cam for model resnet,3,https://github.com/insikk/Grad-CAM-tensorflow
+1.50244E+11,google,181,Cierre perimetral San SebastiÃƒÂ¡n de los reyes,4,https://www.madridnorte24horas.com/alcobendas/covid-19-alcobendas/alcobendas-y-san-sebastian-de-los-reyes-bajo-cierre-perimetral/
+1.50244E+11,google,238,Real Madrid alineaciÃƒÂ³n hoy,1,https://as.com/futbol/2021/02/24/champions/1614152695_778278.html
+1.50244E+11,google,239,keyforge 4,1,http://www.fantasyflightgames.es/juegos/coleccion/keyforge
+1.50244E+11,google,243,CÃƒÂ³mo hacer una pizza ,1,https://www.recetasdesbieta.com/como-hacer-pizza-casera-rapida-con-masa-de-pizza-sin-reposo/
+1.50244E+11,google,243,CÃƒÂ³mo hacer una pizza ,2,https://www.recetasgratis.net/receta-de-pizza-casera-31391.html
+1.50244E+11,google,259,maxwell equations,1,https://es.wikipedia.org/wiki/Ecuaciones_de_Maxwell
+1.50244E+11,google,260,UFC 259,2,https://www.ufcespanol.com/event/ufc-259
+1.95135E+11,google,267,por que el tekken es tan aburrido,3,https://rpp.pe/blog/mas-consolas/lo-bueno-lo-malo-y-lo-feo-de-tekken-7-noticia-1054566
+15024419997,google,265,Griffith,3,https://berserk.fandom.com/es/wiki/Griffith
+1.50244E+11,google,226,grad cam for model resnet,9,https://arxiv.org/pdf/1901.07683
+1.50244E+11,google,259,maxwell equations,2,https://en.wikipedia.org/wiki/Maxwell%27s_equations
+1.50244E+11,google,260,UFC 259,3,https://www.ufc.com/ufc-259
+1.50244E+11,google,283,pablito castillos,9,https://www.letras.com/pablito-castillo/
+1.50244E+11,google,226,grad cam for model resnet,8,https://research.fb.com/wp-content/uploads/2017/09/iccv-grad-cam.pdf
+1.50244E+11,google,304,La casa de papel temporada 5,1,https://www.menshealth.com/es/noticias-deportivas-masculinas/a34504745/la-casa-de-papel-temporada-5-fecha-estreno-reparto/
+1.50244E+11,google,303,himno del betis letra,1,https://www.goal.com/es/noticias/que-dice-el-himno-del-betis/ggk4wl6vymp91aclgnca15zda
+1.50244E+11,google,259,maxwell equations,3,#
+1.50244E+11,google,259,maxwell equations,4,https://maxwells-equations.com/
+1.50244E+11,google,259,maxwell equations,5,http://hyperphysics.phy-astr.gsu.edu/hbase/electric/maxeq.html
+15024419954,google,307,Porque Pablo Castells es el mejor profesor de la universidad,7,https://portalcientifico.uam.es/
+15024419910,google,314,facebook salary,1,https://www.indeed.com/cmp/Facebook/salaries
+15024419956,google,320,np.linalg.svd example,3,https://stackoverflow.com/questions/24913232/using-numpy-np-linalg-svd-for-singular-value-decomposition
+1.95135E+11,google,323,que significa ser edgy,2,https://diccionarioactual.com/edgy/
+1.50244E+11,google,303,himno del betis letra,2,https://www.letras.com/fondo-flamenco/1365333/
+95127170164,google,329,Tercios de Flandes ,1,https://es.wikipedia.org/wiki/Ej%C3%A9rcito_de_Flandes
+15024419910,google,325,best ide 2021,2,https://htmlcssmonk.medium.com/10-best-ide-for-web-development-in-2021-899c97b4b6a9
+1.50244E+11,google,259,maxwell equations,6,https://www.britannica.com/science/Maxwells-equations
+1.50244E+11,google,259,maxwell equations,7,http://www.phys.virginia.edu/classes/109N/more_stuff/Maxwell_Eq.html
+1.50244E+11,google,232,cuanto cobra ibai,3,#
+1.95135E+11,google,323,que significa ser edgy,4,https://voydeedgy.top/que-es-el-estilo-edgy/
+1.50244E+11,google,343,puerto 8070,1,https://es.adminsub.net/tcp-udp-port-finder/8070
+15024419910,google,349,cuando se acaba el estado de alarma,1,https://www.lamoncloa.gob.es/covid-19/Paginas/estado-de-alarma.aspx
+1.95135E+11,google,323,que significa ser edgy,9,https://aminoapps.com/c/anime-es/page/blog/edgy-y-personajes-que-lo-son/aVKc_0unRMrgJXEMrrgbJDDXb32bB43
+1.50244E+11,google,232,cuanto cobra ibai,6,https://depor.com/depor-play/esports/twitch-cuanto-cobran-los-streamers-mas-populares-del-momento-ibai-llanos-rubius-auronplay-noticia/
+1.50244E+11,google,331,a scarlet study,1,https://scarletstudy.gq/
+15024419910,google,349,cuando se acaba el estado de alarma,3,https://civio.es/el-boe-nuestro-de-cada-dia/2020/11/04/la-prorroga-del-estado-de-alarma-del-9-de-noviembre-al-9-de-mayo-da-libertad-a-las-comunidades-para-levantar-o-modificar-el-toque-de-queda-nocturno/
+1.50244E+11,google,354,shingeki no kyojin  ep 8 temporada 4 online,2,https://supergoku.com/episodes/shingeki-no-kyojin-temporada-4-capitulo-8-sub-espanol/
+1.50244E+11,google,355,profe puedo ir al baÃƒÂ±o,1,https://www.eldiario.es/canariasahora/lapalmaahora/lapalmaopina/profe-puedo-ir-bano_132_1578462.html
+1.50244E+11,google,259,maxwell equations,8,https://byjus.com/physics/maxwells-equations/
+1.50244E+11,google,331,a scarlet study,5,https://en.wikipedia.org/wiki/A_Study_in_Scarlet
+1.50244E+11,google,259,maxwell equations,9,https://www.open.edu/openlearn/science-maths-technology/james-clerk-maxwell/content-section-4
+1.50244E+11,google,232,cuanto cobra ibai,8,https://www.businessinsider.es/cuanto-ganan-principales-streamers-twitch-mundo-764395
+1.50244E+11,google,355,profe puedo ir al baÃƒÂ±o,2,https://www.compartirpalabramaestra.org/actualidad/blog/profesor-puedo-ir-al-bano-o-sobre-la-igualdad-de-sexos-en-el-aula
+1.50244E+11,google,355,profe puedo ir al baÃƒÂ±o,4,https://www.tiktok.com/music/profe-puedo-ir-al-ba%C3%B1o-6538468873795015695?lang=es
+1.50244E+11,google,355,profe puedo ir al baÃƒÂ±o,6,https://www.facebook.com/nomemeschess/posts/extra%C3%B1o-decir-profe-puedo-ir-al-ba%C3%B1o-y-pum-un-paseo-tur%C3%ADstico-por-toda-la-escuel/3576356095792471/
+176838989,google,371,Trevijano,1,https://es.wikipedia.org/wiki/Antonio_Garc%C3%ADa-Trevijano
+1.50244E+11,google,369,algoritmo mas util del mundo,1,https://pijamasurf.com/2014/06/10-algoritmos-que-dominan-nuestro-mundo/
+1.50244E+11,google,355,profe puedo ir al baÃƒÂ±o,3,https://diccionario.reverso.net/espanol-ingles/%C2%BFPuedo+ir+al+ba%C3%B1o%2C+maestro
+1.50244E+11,google,374,perturbation theory quantum mechanics,1,https://en.wikipedia.org/wiki/Perturbation_theory_(quantum_mechanics)
+176838989,google,371,Trevijano,6,https://elpais.com/noticias/antonio-garcia-trevijano/
+15024419954,google,377,Estado de la vacuncaciÃƒÂ³n en EspaÃƒÂ±a,1,https://www.mscbs.gob.es/profesionales/saludPublica/ccayes/alertasActual/nCov/vacunaCovid19.htm
+15024419954,google,377,Estado de la vacuncaciÃƒÂ³n en EspaÃƒÂ±a,2,https://www.vacunacovid.gob.es/
+1.50244E+11,google,383,functional methods applied to machine learning fields of study,1,https://iopscience.iop.org/article/10.1088/2515-7639/ab084b
+1.50244E+11,google,232,cuanto cobra ibai,9,https://www.revistagq.com/noticias/articulo/ibai-llanos-twitch-cuanto-dinero-gana-lista-mejor-pagados
+1.50244E+11,google,374,perturbation theory quantum mechanics,2,#
+1.50244E+11,google,374,perturbation theory quantum mechanics,3,https://www2.ph.ed.ac.uk/~ldeldebb/docs/QM/lect17.pdf
+15024419972,google,391,paraiso fiscal real madrid,1,https://www.elconfidencial.com/deportes/futbol/2021-02-23/real-madrid-football-leaks-providence-caiman-paraisos-fiscales_2962063/
+1.50244E+11,google,399,algortimo simplex,1,https://es.wikipedia.org/wiki/Algoritmo_s%C3%ADmplex
+1.50244E+11,google,400,mejores rutinas calistenia,1,https://todocalistenia.com/rutina-calistenia/
+1.50244E+11,google,374,perturbation theory quantum mechanics,4,https://cds.cern.ch/record/1338938/files/978-3-540-85316-9_BookBackMatter.pdf
+15024419956,google,415,vacunacion en espaÃƒÂ±a,1,https://www.mscbs.gob.es/profesionales/saludPublica/ccayes/alertasActual/nCov/vacunaCovid19.htm
+1.50244E+11,google,412,cuantas vacunas se han puesto en espaÃƒÂ±a,1,https://www.elmundo.es/ciencia-y-salud/salud/2021/01/29/60141474fc6c834e268b4666.html
+1.50244E+11,google,416,functional data state of art,2,http://www.seio.es/BEIO/A-present-overview-on-functional-data-analysis-2.html
+15024419999,google,421,make homemade bow,2,https://www.wikihow.com/Make-a-Homemade-Bow
+15024419954,google,377,Estado de la vacuncaciÃƒÂ³n en EspaÃƒÂ±a,3,https://www.eldiario.es/sociedad/vacuna-covid-mapas-graficos-proceso-vacunacion-espana-mundo-febrero-23_1_6782953.html
+15024419954,google,377,Estado de la vacuncaciÃƒÂ³n en EspaÃƒÂ±a,4,https://elpais.com/sociedad/2021-02-20/asi-evoluciona-la-vacunacion-contra-la-covid-en-espana-y-en-el-mundo.html
+176838989,google,422,James webb telescope launch date,3,https://www.nasa.gov/press-release/nasa-announces-new-james-webb-space-telescope-target-launch-date
+15024419954,google,377,Estado de la vacuncaciÃƒÂ³n en EspaÃƒÂ±a,6,https://www.abc.es/sociedad/abci-vacunacion-espana-vacunas-coronavirus-datos-nsv-202102171044_noticia.html
+176838989,google,422,James webb telescope launch date,4,https://es.wikipedia.org/wiki/Telescopio_espacial_James_Webb
+15024419954,google,377,Estado de la vacuncaciÃƒÂ³n en EspaÃƒÂ±a,8,https://www.rtve.es/alacarta/audios/24-horas/estado-vacunacion-contra-covid-19-espana/5779264/
+15024419954,google,377,Estado de la vacuncaciÃƒÂ³n en EspaÃƒÂ±a,7,https://lab.rtve.es/lab/vacunacion-espana-coronavirus/
+1.50244E+11,google,427,best raspberry pi projects,2,https://www.ubuntupit.com/20-best-raspberry-pi-projects-that-you-can-start-right-now/
+1.50244E+11,google,431,glicko metric,1,https://en.wikipedia.org/wiki/Glicko_rating_system
+1.50244E+11,google,374,perturbation theory quantum mechanics,5,https://link.springer.com/10.1007/978-0-387-30440-3_402
+1.50244E+11,google,445,analyse city events with twitter,1,https://scholarworks.boisestate.edu/cgi/viewcontent.cgi?article=1010&context=cs_gradproj
+176838989,google,446,Eps uam,1,http://www.uam.es/EPS/Home.htm?language=es
+1.50244E+11,google,445,analyse city events with twitter,2,https://arxiv.org/abs/1705.09975
+1.50244E+11,google,445,analyse city events with twitter,3,https://arxiv.org/pdf/1901.00570
+15024419972,google,391,paraiso fiscal real madrid,2,https://as.com/futbol/2021/02/22/primera/1613988418_250434.html
+1.50244E+11,google,427,best raspberry pi projects,3,https://all3dp.com/1/best-raspberry-pi-projects/
+176838989,google,453,Por que la uam es mejor que la upm informqtica,1,https://foro.noticias3d.com/vbulletin/showthread.php?t=227504
